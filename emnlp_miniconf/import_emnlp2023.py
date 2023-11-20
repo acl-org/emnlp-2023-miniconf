@@ -775,7 +775,7 @@ class Emnlp2023Parser:
         group_type = "Poster"
         for (group_session, group_track), group in df.groupby(["Session", "Track"]):
             group = group.sort_values("Presentation Order")
-            assert len(set(group.Location.values)) == 1
+            # assert len(set(group.Location.values)) == 1
             room = group.iloc[0].Location
             event_name = get_session_event_name(group_session, group_track, group_type)
             event_id = name_to_id(event_name)

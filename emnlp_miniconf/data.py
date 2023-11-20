@@ -38,7 +38,7 @@ EVENT_TYPES = {
     BREAKS,
 }
 # TODO: Remove this hack/grab from configuration
-CONFERENCE_TZ = pytz.timezone("America/Toronto")
+CONFERENCE_TZ = pytz.timezone("Asia/Singapore")
 
 
 def name_to_id(name: str):

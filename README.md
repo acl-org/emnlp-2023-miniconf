@@ -1,8 +1,8 @@
-# ACL 2023 Virtual Conference
+# EMNLP 2023 Virtual Conference
 
 This virtual conference page is based on [MiniConf](http://www.mini-conf.org/) by Alexander Rush and Hendrik Strobelt.
-It was extended by the [amazing team of ACL 2020](https://github.com/acl-org/acl-2020-virtual-conference).
-It was adapted for ACL 2023 by Pedro Rodriguez and the virtual infrastructure committee.
+It was extended by the [amazing team of ACL 2020](https://github.com/acl-org/acl-2020-virtual-conference) and [amazing team of ACL 2023](https://github.com/acl-org/acl-2023-miniconf/).
+It was adapted for EMNLP 2023 by the virtual infrastructure committee.
 
 The website is based on [Flask](https://flask.palletsprojects.com/) and [Frozen-Flask](https://pythonhosted.org/Frozen-Flask/). It:
 
@@ -11,8 +11,16 @@ The website is based on [Flask](https://flask.palletsprojects.com/) and [Frozen-
 
 ## Quick Start (No Program Updates)
 
-1. Install [python poetry](https://python-poetry.org/)
+1. Install [python poetry](https://python-poetry.org/) 
+
+Tips: The official installation process may not be suitable for all network situations. 
+It is recommended to proceed directly in a Python=3.10 environment by: `pip install poetry`
+
 2. Run: `poetry install`
+
+Tips: During this step, it cannot be installed directly, and this variable needs to be introduced first:
+`export PYTHON_KEYRING_BACKEND=keyring.backends.null.Keyring`
+
 3. Run: `make run`
 4. Visit `localhost:7777`
 
@@ -32,6 +40,16 @@ We are very welcoming of community contributions!
     - Ensure `make freeze` runs without errors (warnings are fine)
     - Make a pull request.
     - If the changes look good to us and the site builds on GH Actions, we will merge and your changes will be live for everyone to see!
+
+## Update EMNLP 2023 [Website]
+
+We did the following steps to adopt the website for EMNLP 2023 Miniconf:
+1. Change the global configs (configs/site.yaml)
+2. Add the picture the website need (static/images/emnlp2023/)
+3. Modify the front-pages (templates/)
+4. Create the EMNLP 2023 website data dir (data/emnlp_2023/)
+
+
 
 ## Update ACL 2023 from Source
 
