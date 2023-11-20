@@ -12,8 +12,8 @@ from flask import Flask, jsonify, redirect, render_template, send_from_directory
 from flask_frozen import Freezer
 from flaskext.markdown import Markdown
 
-from acl_miniconf.load_site_data import load_site_data, reformat_plenary_data
-from acl_miniconf.data import WORKSHOP, Conference, SiteData, ByUid, Paper
+from emnlp_miniconf.load_site_data import load_site_data, reformat_plenary_data
+from emnlp_miniconf.data import WORKSHOP, Conference, SiteData, ByUid, Paper
 
 conference: Conference = None
 site_data: SiteData = None
