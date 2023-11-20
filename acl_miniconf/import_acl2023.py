@@ -168,6 +168,7 @@ def parse_authors(
     anthology_data: Dict[str, AnthologyEntry], paper_id: str, author_string: str
 ) -> List[str]:
     anthology_id = to_anthology_id(paper_id)
+    anthology_id = None
     if anthology_id is None:
         authors = author_string.split(",")
         if len(authors) == 1:
@@ -246,35 +247,35 @@ class Acl2023Parser:
         self.tutorials: Dict[str, Tutorial] = {}
         self.plenaries: Dict[str, Plenary] = {}
         self.underline_assets: Dict[str, Assets] = {}
-        self.zone = pytz.timezone("America/Toronto")
+        self.zone = pytz.timezone("Asia/Singapore")
         self.workshops: Dict[str, Workshop] = {}
         self.keywords: Dict[str, Keywords] = {}
         self.spreadsheet_info: Dict = {}
 
     def parse(self):
         # Anthology has to be parsed first to fill in abstracts/files/links
-        self._add_anthology_data()
+        #self._add_anthology_data()
         # Underline has to be parsed early to fill in links/files/etc
-        self._parse_underline_assets()
-        self._parse_underline_spreadsheet()
-        self._parse_keywords()
+        #self._parse_underline_assets()
+        #self._parse_underline_spreadsheet()
+        #self._parse_keywords()
         # Early parse special sessions, so they can be filled in
-        self._parse_workshops()
-        self._parse_plenaries()
-        self._parse_tutorials()
+        #self._parse_workshops()
+        #self._parse_plenaries()
+        #self._parse_tutorials()
 
         # Parse order intentional, don't change
         self._parse_oral_papers()
         self._parse_poster_papers()
-        self._parse_virtual_papers()
+        #self._parse_virtual_papers()
         # Order is intentional, spotlight papers also appear in virtual, so repeated papers
         # warnings aren't emitted
-        self._parse_spotlight_papers()
+        #self._parse_spotlight_papers()
 
         # Parse extra events
-        self._parse_extras_from_spreadsheet(self.socials_json_path)
+        #self._parse_extras_from_spreadsheet(self.socials_json_path)
 
-        self._parse_workshop_papers()
+        #self._parse_workshop_papers()
 
         self.validate()
         return Conference(
@@ -1288,24 +1289,24 @@ class DateTimeEncoder(json.JSONEncoder):
 
 
 def main(
-    oral_tsv: str = "private_data-acl2023/oral-papers.tsv",
-    poster_tsv: str = "private_data-acl2023/poster-demo-papers.tsv",
-    virtual_tsv: str = "private_data-acl2023/virtual-papers.tsv",
-    spotlight_tsv: str = "private_data-acl2023/spotlight-papers.tsv",
-    extras_xlsx: str = "private_data-acl2023/acl-2023-events-export-2023-07-09 (1).xlsx",
-    acl_main_long_proceedings_yaml: str = "private_data-acl2023/main/long.yml",
-    acl_main_short_proceedings_yaml: str = "private_data-acl2023/main/short.yml",
-    acl_main_findings_proceedings_yaml: str = "private_data-acl2023/main/findings.yml",
-    acl_demo_proceedings_yaml: str = "private_data-acl2023/demo/papers.yml",
-    acl_industry_proceedings_yaml: str = "private_data-acl2023/industry/papers.yml",
-    acl_srw_proceedings_yaml: str = "private_data-acl2023/SRW/papers.yml",
-    workshop_papers_yml: str = "data/acl_2023/data/workshop_papers.yaml",
-    workshops_yaml: str = "data/acl_2023/data/workshops.yaml",
-    booklet_json: str = "data/acl_2023/data/booklet_data.json",
-    socials_json: str = "data/acl_2023/data/socials_data.json",
-    keywords_csv: str = "data/acl_2023/data/keywords.csv",
+    oral_tsv: str = "data/emnlp_2023/data/oral-papers.tsv",
+    poster_tsv: str = "data/emnlp_2023/data/poster-demo-papers.tsv",
+    virtual_tsv: str = "data/emnlp_2023/data/virtual-papers.tsv",
+    spotlight_tsv: str = "data/emnlp_2023/data/spotlight-papers.tsv",
+    extras_xlsx: str = "data/emnlp_2023/data/acl-2023-events-export-2023-07-09 (1).xlsx",
+    acl_main_long_proceedings_yaml: str = "data/emnlp_2023/data/main/long.yml",
+    acl_main_short_proceedings_yaml: str = "data/emnlp_2023/data/main/short.yml",
+    acl_main_findings_proceedings_yaml: str = "data/emnlp_2023/data/main/findings.yml",
+    acl_demo_proceedings_yaml: str = "data/emnlp_2023/data/demo/papers.yml",
+    acl_industry_proceedings_yaml: str = "data/emnlp_2023/data/industry/papers.yml",
+    acl_srw_proceedings_yaml: str = "data/emnlp_2023/data/SRW/papers.yml",
+    workshop_papers_yml: str = "data/emnlp_2023/data/workshop_papers.yaml",
+    workshops_yaml: str = "data/emnlp_2023/data/workshops.yaml",
+    booklet_json: str = "data/emnlp_2023/data/booklet_data.json",
+    socials_json: str = "data/emnlp_2023/data/socials_data.json",
+    keywords_csv: str = "data/emnlp_2023/data/keywords.csv",
     acl_anthology_prefix: str = "https://aclanthology.org/",
-    out_dir: str = "data/acl_2023/data/",
+    out_dir: str = "data/emnlp_2023/data/",
 ):
     parser = Acl2023Parser(
         oral_tsv_path=Path(oral_tsv),
