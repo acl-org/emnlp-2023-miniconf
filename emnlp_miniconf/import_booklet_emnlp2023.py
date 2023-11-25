@@ -19,28 +19,29 @@ from emnlp_miniconf.data import (
 )
 
 WS_ID_TO_SHORT = {
-    "workshop_1": "SemEval",
-    "workshop_2": "DialDoc",
-    "workshop_3": "CODI",
-    "workshop_4": "IWSLT",
-    "workshop_5": "RepL4NLP",
-    "workshop_6": "SustaiNLP",
-    "workshop_7": "BEA",
-    "workshop_8": "NLRSE",
-    "workshop_9": "WOAH",
-    "workshop_10": "DialDoc",
-    "workshop_11": "MATCHING",
-    "workshop_12": "LAW",
-    "workshop_13": "BioNLP-ST",
-    "workshop_14": "NLP4ConvAI",
-    "workshop_15": "TrustNLP",
-    "workshop_16": "WASSA",
-    "workshop_17": "Clinical-NLP",
-    "workshop_18": "SICon",
-    "workshop_19": "CAWL",
-    "workshop_20": "AmericasNLP",
-    "workshop_21": "Narrative-Understanding",
-    "workshop_22": "SIGMORPHON",
+    "workshop_1_1": "CoNLL 2023",
+    "workshop_2_1": "CRAC",
+    "workshop_3_1": "WMT23",
+    "workshop_4": "GenBench",
+    "workshop_5": "LChange'23",
+    "workshop_6": "NewSumm",
+    "workshop_7": "NLP-OSS",
+    "workshop_8": "Pan-DL",
+    "workshop_9": "WiNLP",
+    "workshop_10": "SpLU-RoboNLP",
+    "workshop_11": "GEM",
+    "workshop_1_2": "CoNLL 2023 2",
+    "workshop_2_2": "CRAC 2",
+    "workshop_3_2": "WMT23 2",
+    "workshop_12": "ArgMining",
+    "workshop_13": "BigPicture",
+    "workshop_14": "BlackboxNLP",
+    "workshop_15": "CALCS",
+    "workshop_16": "NLLP",
+    "workshop_17": "ArabicNLP",
+    "workshop_18": "MRL",
+    "workshop_19": "NILLI",
+    "workshop_20": "BLP",
 }
 
 
@@ -85,6 +86,7 @@ def generate_plenaries(
     sessions = {}
     for plenary_dict in plenaries_list:
         # This is fine since the booklet is in Toronto time
+    
         start_time = parse_conference_time(plenary_dict["start_time"])
         end_time = parse_conference_time(plenary_dict["end_time"])
 

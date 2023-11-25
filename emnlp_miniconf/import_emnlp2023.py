@@ -18,6 +18,9 @@ import time
 from collections import defaultdict
 from openpyxl import load_workbook
 
+#import sys
+#sys.path.append('/workspace2/linyihang/emnlp-2023-miniconf')
+
 from emnlp_miniconf.data import (
     PLENARIES,
     TUTORIALS,
@@ -260,9 +263,9 @@ class Emnlp2023Parser:
         #self._parse_underline_spreadsheet()
         #self._parse_keywords()
         # Early parse special sessions, so they can be filled in
-        #self._parse_workshops()
-        #self._parse_plenaries()
-        #self._parse_tutorials()
+        self._parse_workshops()
+        self._parse_plenaries()
+        self._parse_tutorials()
 
         # Parse order intentional, don't change
         self._parse_oral_papers()
