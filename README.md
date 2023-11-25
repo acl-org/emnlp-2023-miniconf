@@ -49,7 +49,12 @@ We did the following steps to adopt the website for EMNLP 2023 Miniconf:
 3. Modify the front-pages (templates/)
 4. Create the EMNLP 2023 website data dir (data/emnlp_2023/)
 
+## Update EMNLP 2023 from Source  
 
+EMNLP 2023 workshops and booklet_data is generated in two steps:
+
+1. Data is located in `data/emnlp_2023/data` and should be downloaded from the (private) conference google spreadsheets into the file: `input.xlsx`. 
+2. Run `python data/emnlp_2023/data/generate_booklet_data_json.py` to generate data to `booklet_data.json`, Run `python data/emnlp_2023/data/generate_workshops_yaml.py` to generate data to `workshops.yaml`. (all same content).
 
 ## Update ACL 2023 from Source
 
