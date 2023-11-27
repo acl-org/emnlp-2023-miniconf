@@ -18,8 +18,8 @@ import time
 from collections import defaultdict
 from openpyxl import load_workbook
 
-#import sys
-#sys.path.append('/workspace2/linyihang/emnlp-2023-miniconf')
+import sys
+sys.path.append('/workspace2/linyihang/emnlp-2023-miniconf')
 
 from emnlp_miniconf.data import (
     PLENARIES,
@@ -1160,7 +1160,8 @@ class Emnlp2023Parser:
             new_sessions.append((name, session))
         for (name, session) in new_sessions:
             self.sessions[name] = session
-
+    
+    
 
     def _parse_event_without_papers(
         self, spreadsheet_info, event_key, event_type, event_name=None

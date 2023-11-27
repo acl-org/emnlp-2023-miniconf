@@ -146,7 +146,7 @@ def generate_tutorials(
             name=tutorial_dict["title"],
             display_name=tutorial_dict["title"],
             start_time=start_time,
-            end_time=start_time,
+            end_time=end_time,
             type=TUTORIALS,
             tutorial_events={tutorial_id: tutorial},
         )
