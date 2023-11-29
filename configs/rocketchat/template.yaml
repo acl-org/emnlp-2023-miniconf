@@ -4,6 +4,6 @@ server: ???
 conference_file: ???
 command: ???
 dry_run: false
-program_json_path: data/acl_2023/data/conference.json
-booklet_json_path: data/acl_2023/data/booklet_data.json
-workshops_yaml_path: data/acl_2023/data/workshops.yaml
+program_json_path: data/emnlp_2023/data/conference.json
+booklet_json_path: data/emnlp_2023/data/booklet_data.json
+workshops_yaml_path: data/emnlp_2023/data/workshops.yaml
