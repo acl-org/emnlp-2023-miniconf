@@ -19,7 +19,7 @@ from collections import defaultdict
 from openpyxl import load_workbook
 
 import sys
-sys.path.append('/workspace2/linyihang/emnlp-2023-miniconf')
+sys.path.append('/Users/linyihang/Desktop/emnlp-2023-miniconf')
 
 from emnlp_miniconf.data import (
     PLENARIES,
