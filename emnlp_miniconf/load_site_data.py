@@ -365,13 +365,12 @@ def reformat_plenary_data(plenaries):
     # we break less stuff. I do not recommend doing this in general.
     session_data = dict()
     session_day_data = []
-
-    re_date = re.compile("(\w+), July (\d+).*")
-    re_time = re.compile(".*Time: (\d+:\d+).(\d+:\d+).*")
+    re_date = re.compile("(\w+), December (\d+).*")
+    re_time = re.compile(".*Time: (\d+:\d+) - (\d+:\d+).*")
     for plenary_key, plenary in plenaries.items():
         # Parse the date and time from the description
         result_date = re_date.search(plenary.abstract)
-        date_string = "2023-07-{}".format(result_date.group(2))
+        date_string = "2023-12-{}".format(result_date.group(2))
         plenary_day = result_date.group(1)
         result_time = re_time.search(plenary.abstract)
         start_time_string = result_time.group(1)
@@ -381,11 +380,11 @@ def reformat_plenary_data(plenaries):
         start_time = datetime.datetime.strptime(
             "{} {}".format(date_string, start_time_string), "%Y-%m-%d %H:%M"
         )
-        start_time = start_time + datetime.timedelta(hours=6)
+        start_time = start_time
         end_time = datetime.datetime.strptime(
             "{} {}".format(date_string, end_time_string), "%Y-%m-%d %H:%M"
         )
-        end_time = end_time + datetime.timedelta(hours=6)
+        end_time = end_time
         # Load images if we have one
         if plenary_key == "memorial":
             plenary.image_url = "invited/drago.jpg"
