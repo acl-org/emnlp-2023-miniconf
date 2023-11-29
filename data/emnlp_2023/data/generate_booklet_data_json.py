@@ -2,9 +2,9 @@ import pandas as pd
 import json
 
 # 读取三个Excel表格
-df1 = pd.read_excel('input.xlsx', sheet_name='Plenary Schedule')
-df2 = pd.read_excel('input.xlsx', sheet_name='Tutorials Schedule')
-df3 = pd.read_excel('input.xlsx', sheet_name='Workshop Schedule')
+df1 = pd.read_excel('data/emnlp_2023/data/input.xlsx', sheet_name='Plenary Schedule')
+df2 = pd.read_excel('data/emnlp_2023/data/input.xlsx', sheet_name='Tutorials Schedule')
+df3 = pd.read_excel('data/emnlp_2023/data/input.xlsx', sheet_name='Workshop Schedule')
 
 # 创建一个空的字典列表用于存储所有数据
 data = []
@@ -58,7 +58,7 @@ for index, row in df3.iterrows():
         'start_time': start_time,
         'end_time': end_time,
         'url': row['url'],
-        'chair': row['Invited Speakers']
+        'chair': row['organizers']
     }
     data.append(workshop_data)
 
@@ -70,5 +70,7 @@ final_data = {
 }
 
 # 将所有数据写入JSON文件
-with open('booklet_data.json', 'w') as file:
+with open('data/emnlp_2023/data/booklet_data.json', 'w') as file:
     json.dump(final_data, file, indent=4)
+
+print("数据已成功生成到booklet_data.json文件。")

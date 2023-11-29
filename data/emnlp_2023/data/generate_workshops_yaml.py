@@ -2,7 +2,7 @@ import pandas as pd
 import yaml
 
 # 读取Excel表格
-df = pd.read_excel('input.xlsx', sheet_name='Workshop Schedule')
+df = pd.read_excel('data/emnlp_2023/data/input.xlsx', sheet_name='Workshop Schedule')
 
 # 创建一个空的字典用于存储数据
 data = []
@@ -23,5 +23,7 @@ for index, row in df.iterrows():
     data.append(workshop_data)
 
 # 将数据写入YAML文件
-with open('workshops.yaml', 'w') as file:
+with open('data/emnlp_2023/data/workshops.yaml', 'w') as file:
     yaml.dump(data, file)
+
+print("数据已成功写入workshops.yaml文件。")
