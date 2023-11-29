@@ -1,6 +1,6 @@
-- anthology_venue_id: CoNLL
+- anthology_venue_id: CoNLL 2023
   name: 'W1: The SIGNLL Conference on Computational Natural Language Learning(CoNLL)'
-  short_name: CoNLL
+  short_name: CoNLL 2023
 - anthology_venue_id: CRAC
   name: 'W2: The Sixth Workshop on Computational Models of Reference, Anaphora and
     Coreference (CRAC 2023)'
@@ -11,10 +11,10 @@
 - anthology_venue_id: GenBench
   name: 'W4: GenBench: The first workshop on generalisation (benchmarking) in NLP'
   short_name: GenBench
-- anthology_venue_id: LChange-23
+- anthology_venue_id: LChange'23
   name: "W5: The 4th International Workshop on Computational Approaches to Historical\
     \ Language Change (LChange\u201923)"
-  short_name: LChange-23
+  short_name: LChange'23
 - anthology_venue_id: NewSumm
   name: 'W6: The 4th New Frontiers in Summarization Workshop (NewSumm)'
   short_name: NewSumm
@@ -36,16 +36,16 @@
 - anthology_venue_id: GEM
   name: 'W11: Natural Language Generation, Evaluation, and Metric (GEM)'
   short_name: GEM
-- anthology_venue_id: CoNLL-2
+- anthology_venue_id: CoNLL 2023 2
   name: 'W1: The SIGNLL Conference on Computational Natural Language Learning(CoNLL)'
-  short_name: CoNLL-2
-- anthology_venue_id: CRAC-2
+  short_name: CoNLL 2023 2
+- anthology_venue_id: CRAC 2
   name: 'W2: The Sixth Workshop on Computational Models of Reference, Anaphora and
     Coreference (CRAC 2023)'
-  short_name: CRAC-2
-- anthology_venue_id: WMT23-2
+  short_name: CRAC 2
+- anthology_venue_id: WMT23 2
   name: 'W3: The Eighth Conference on Machine Translation (WMT23)'
-  short_name: WMT23-2
+  short_name: WMT23 2
 - anthology_venue_id: ArgMining
   name: 'W12: The 10th Workshop on Argument Mining(ArgMining)'
   short_name: ArgMining
