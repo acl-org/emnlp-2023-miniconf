@@ -78111,21 +78111,21 @@
             "type": "Plenary Sessions",
             "workshop_events": {}
         },
-        "t01": {
+        "t1": {
             "display_name": "T01: NLP+Vis: NLP Meets Visualization",
             "end_time": "2023-12-06T12:30:00+08:00",
             "events": {},
-            "id": "t01",
+            "id": "t1",
             "name": "T01: NLP+Vis: NLP Meets Visualization",
             "plenary_events": {},
             "start_time": "2023-12-06T09:00:00+08:00",
             "tutorial_events": {
-                "t01": {
-                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.01",
+                "t1": {
+                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.1",
                     "chairs": [],
                     "description": "Natural language and visualization (Vis) are two powerful modalities of human communication. The goal of this tutorial is to push forward the agenda of tightly integrating these two modalities. To this end, the tutorial will introduce NLP+Vis with a focus on two main threads of work: \\textit{(i) NLP for Vis:} How to develop and adapt state-of-the-art NLP models for solving various visualization tasks? and \\textit{(ii) Vis for NLP:} How to leverage visualization techniques to interpret and explain complex NLP models effectively? The tutorial will first motivate why NLP+Vis is an important area of research and provide an overview of research topics on combining NLP and Vis techniques. Then an overview of state-of-the-art deep learning models for NLP will be covered. Next, we will provide an overview of applying visualization techniques to help make NLP models more interpretable and explainable. In the final part, we will focus on various application tasks at the intersection of NLP and Vis. We will conclude with an interactive discussion of future challenges for NLP+Vis applications. The audience will include researchers interested in applying NLP for visualizations as well as others who focus more generally at the intersection of machine learning and visualization.",
                     "end_time": "2023-12-06T12:30:00+08:00",
-                    "id": "t01",
+                    "id": "t1",
                     "link": null,
                     "organizers": [
                         "Shafiq Joty",
@@ -78135,32 +78135,32 @@
                     "paper_ids": [],
                     "rocketchat_channel": "tutorial-1",
                     "room": "Pisces 1",
-                    "session": "t01",
+                    "session": "t1",
                     "start_time": "2023-12-06T09:00:00+08:00",
                     "title": "T01: NLP+Vis: NLP Meets Visualization",
                     "track": "Tutorial",
-                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.01.pdf",
+                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.1.pdf",
                     "type": "Tutorials"
                 }
             },
             "type": "Tutorials",
             "workshop_events": {}
         },
-        "t02": {
+        "t2": {
             "display_name": "T02: Security Challenges in Natural Language Processing Models",
             "end_time": "2023-12-06T12:30:00+08:00",
             "events": {},
-            "id": "t02",
+            "id": "t2",
             "name": "T02: Security Challenges in Natural Language Processing Models",
             "plenary_events": {},
             "start_time": "2023-12-06T09:00:00+08:00",
             "tutorial_events": {
-                "t02": {
-                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.02",
+                "t2": {
+                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.2",
                     "chairs": [],
                     "description": "Large-scale natural language processing models have been developed and integrated into numerous applications, given the advantage of their remarkable performance. Nonetheless, the security concerns associated with these models prevent the widespread adoption of these black-box machine learning models. In this tutorial, we will dive into three emerging security issues in NLP research, i.e., backdoor attacks, private data leakage, and imitation attacks. These threats will be introduced in accordance with their threatening usage scenarios, attack methodologies, and defense technologies.",
                     "end_time": "2023-12-06T12:30:00+08:00",
-                    "id": "t02",
+                    "id": "t2",
                     "link": null,
                     "organizers": [
                         "Qiongkai Xu",
@@ -78169,32 +78169,32 @@
                     "paper_ids": [],
                     "rocketchat_channel": "tutorial-2",
                     "room": "Pisces 2 & 3",
-                    "session": "t02",
+                    "session": "t2",
                     "start_time": "2023-12-06T09:00:00+08:00",
                     "title": "T02: Security Challenges in Natural Language Processing Models",
                     "track": "Tutorial",
-                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.02.pdf",
+                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.2.pdf",
                     "type": "Tutorials"
                 }
             },
             "type": "Tutorials",
             "workshop_events": {}
         },
-        "t03": {
+        "t3": {
             "display_name": "T03: Designing, Evaluating, and Learning from Humans Interacting with NLP Models",
             "end_time": "2023-12-06T12:30:00+08:00",
             "events": {},
-            "id": "t03",
+            "id": "t3",
             "name": "T03: Designing, Evaluating, and Learning from Humans Interacting with NLP Models",
             "plenary_events": {},
             "start_time": "2023-12-06T09:00:00+08:00",
             "tutorial_events": {
-                "t03": {
-                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.03",
+                "t3": {
+                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.3",
                     "chairs": [],
                     "description": "The rapid advancement of natural language processing (NLP) research has led to various applications spanning a wide range of domains that require models to interact with humans \u2014 e.g., chatbots responding to human inquiries, machine translation systems assisting human translators, designers prompting Large Language Models for co-creation or prototyping AI-infused applications, etc. In these cases, humans interaction is key to the success of NLP applications; any potential misconceptions or differences might lead to error cascades at the subsequent stages. Such interaction involves a lot of design choices around models, e.g. the sensitivity of interfaces, the impact of design choice and evaluation questions, etc.This tutorial aims to provide a systematic and up-to-date overview of key considerations and effective approaches for studying human-NLP model interactions. Our tutorial will focus specifically on the scenario where end users \u2013 lay people and domain experts who have access to NLP models but are less familiar with NLP techniques \u2014 use or collaborate with deployed models.Throughout the tutorial, we will use five case studies (on classifier-assisted decision making, machine-aided translation, dialog systems, and prompting) to cover three major themes: (1) how to conduct human-in-the-loop usability evaluations to ensure that models are capable of interacting with humans; (2) how to design user interfaces (UIs) and interaction mechanisms that provide end users with easy access to NLP models; (3) how to learn and improve NLP models through the human interactions. We will use best practices from HCI to ground our discussion, and will highlight current challenges and future directions.",
                     "end_time": "2023-12-06T12:30:00+08:00",
-                    "id": "t03",
+                    "id": "t3",
                     "link": null,
                     "organizers": [
                         "Tongshuang Wu",
@@ -78204,32 +78204,32 @@
                     "paper_ids": [],
                     "rocketchat_channel": "tutorial-3",
                     "room": "Leo 3 & 4",
-                    "session": "t03",
+                    "session": "t3",
                     "start_time": "2023-12-06T09:00:00+08:00",
                     "title": "T03: Designing, Evaluating, and Learning from Humans Interacting with NLP Models",
                     "track": "Tutorial",
-                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.03.pdf",
+                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.3.pdf",
                     "type": "Tutorials"
                 }
             },
             "type": "Tutorials",
             "workshop_events": {}
         },
-        "t04": {
+        "t4": {
             "display_name": "T04: LLM-driven Instruction Following: Progresses and Concerns",
             "end_time": "2023-12-06T17:30:00+08:00",
             "events": {},
-            "id": "t04",
+            "id": "t4",
             "name": "T04: LLM-driven Instruction Following: Progresses and Concerns",
             "plenary_events": {},
             "start_time": "2023-12-06T14:00:00+08:00",
             "tutorial_events": {
-                "t04": {
-                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.04",
+                "t4": {
+                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.4",
                     "chairs": [],
                     "description": "The progress of natural language processing (NLP) is primarily driven by machine learning that optimizes a system on a large-scale set of task-specific labeled examples. This learning paradigm limits the ability of machines to have the same capabilities as humans in handling new tasks since humans can often solve unseen tasks with a couple of examples accompanied by task instructions. In addition, we may not have a chance to prepare task-specific examples of large-volume for new tasks because we cannot foresee what task needs to be addressed next and how complex to annotate for it. Therefore, task instructions act as a novel and promising resource for supervision. This tutorial targets researchers and practitioners who are interested in AI and ML technologies for NLP generalization in a low-shot scenario. In particular, we will present a diverse thread of instruction-driven NLP studies that try to answer the following questions: (i) What is task instruction? (ii) How is the process of creating datasets and evaluating systems conducted? (iii) How to encode task instructions? (iv) When and why do some instructions work better? (v) What concerns remain in LLM-driven instruction following? We will discuss several lines of frontier research that tackle those challenges and will conclude the tutorial by outlining directions for further investigation.",
                     "end_time": "2023-12-06T17:30:00+08:00",
-                    "id": "t04",
+                    "id": "t4",
                     "link": null,
                     "organizers": [
                         "Wenpeng Yin",
@@ -78241,32 +78241,32 @@
                     "paper_ids": [],
                     "rocketchat_channel": "tutorial-4",
                     "room": "Leo 3 & 4",
-                    "session": "t04",
+                    "session": "t4",
                     "start_time": "2023-12-06T14:00:00+08:00",
                     "title": "T04: LLM-driven Instruction Following: Progresses and Concerns",
                     "track": "Tutorial",
-                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.04.pdf",
+                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.4.pdf",
                     "type": "Tutorials"
                 }
             },
             "type": "Tutorials",
             "workshop_events": {}
         },
-        "t05": {
+        "t5": {
             "display_name": "T05: Mitigating Societal Harms in Large Language Models",
             "end_time": "2023-12-06T17:31:00+08:00",
             "events": {},
-            "id": "t05",
+            "id": "t5",
             "name": "T05: Mitigating Societal Harms in Large Language Models",
             "plenary_events": {},
             "start_time": "2023-12-06T14:00:00+08:00",
             "tutorial_events": {
-                "t05": {
-                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.05",
+                "t5": {
+                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.5",
                     "chairs": [],
                     "description": "Numerous recent studies have highlighted societal harms that can be caused by language technologies deployed in the wild. While several surveys, tutorials, and workshops have discussed the risks of harms in specific contexts -- e.g., detecting and mitigating gender bias in NLP models -- no prior work has developed a unified typology of technical approaches for mitigating harms of language generation models. Our tutorial is based on a survey we recently wrote that proposes such a typology. We will provide an overview of potential social issues in language generation, including toxicity, social biases, misinformation, factual inconsistency, and privacy violations. Our primary focus will be on how to systematically identify risks, and how eliminate them at various stages of model development, from data collection, to model development, to inference/language generation. Through this tutorial, we aim to equip NLP researchers and engineers with a suite of practical tools for mitigating safety risks from pretrained language generation models.",
                     "end_time": "2023-12-06T17:31:00+08:00",
-                    "id": "t05",
+                    "id": "t5",
                     "link": null,
                     "organizers": [
                         "Sachin Kumar",
@@ -78277,32 +78277,32 @@
                     "paper_ids": [],
                     "rocketchat_channel": "tutorial-5",
                     "room": "Pisces 1",
-                    "session": "t05",
+                    "session": "t5",
                     "start_time": "2023-12-06T14:00:00+08:00",
                     "title": "T05: Mitigating Societal Harms in Large Language Models",
                     "track": "Tutorial",
-                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.05.pdf",
+                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.5.pdf",
                     "type": "Tutorials"
                 }
             },
             "type": "Tutorials",
             "workshop_events": {}
         },
-        "t06": {
+        "t6": {
             "display_name": "T06: Creative Natural Language Generation",
             "end_time": "2023-12-06T17:32:00+08:00",
             "events": {},
-            "id": "t06",
+            "id": "t6",
             "name": "T06: Creative Natural Language Generation",
             "plenary_events": {},
             "start_time": "2023-12-06T14:00:00+08:00",
             "tutorial_events": {
-                "t06": {
-                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.06",
+                "t6": {
+                    "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.6",
                     "chairs": [],
                     "description": "Large language models such as GPT-3, GPT4, Claude etc., have advanced the state of the art in several natural language generation tasks such as text summarization and machine translation. However, when it comes to open-ended tasks with a focus on creativity such as generating stories, poetry, or various forms of figurative language, these state-of-the-art language models are often found to be inadequate.This tutorial aims to bring awareness of the important and emerging research area of open-domain creative generation, with a focus on language generation while also touching on multi-modal generation (e.g., image captioning, visual metaphors). It targets natural language processing (NLP) and artificial intelligence (AI) researchers as well as creative writing practitioners who are interested in building systems that are capable of emulating as well as augmenting human creativity. In particular, we will review recent studies on creative language generation both at the sentence level as well as longer forms of text. We will provide the audiences with a holistic view of 1) the importance and challenges of building creative language generation systems; 2) how we incorporate content planning, domain knowledge, and creativity-specific heuristics for different forms of creative language generation such as story, poetry, humor, metaphors, etc 3) how can we build better evaluation methods for creative text generation in standalone as well as interactive settings? In particular, how could the recent advancement of AI shape the future workforce for creativity? We will conclude the tutorial by outlining future research directions in this area.",
                     "end_time": "2023-12-06T17:32:00+08:00",
-                    "id": "t06",
+                    "id": "t6",
                     "link": null,
                     "organizers": [
                         "Tuhin Chakrabarty",
@@ -78313,15 +78313,365 @@
                     "paper_ids": [],
                     "rocketchat_channel": "tutorial-6",
                     "room": "Pisces 2 & 3",
-                    "session": "t06",
+                    "session": "t6",
                     "start_time": "2023-12-06T14:00:00+08:00",
                     "title": "T06: Creative Natural Language Generation",
                     "track": "Tutorial",
-                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.06.pdf",
+                    "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.6.pdf",
                     "type": "Tutorials"
                 }
             },
             "type": "Tutorials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 1": {
+            "display_name": "The role of NLP researchers in shaping and supporting a society with ubiquitous AI use",
+            "end_time": "2023-12-08T15:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-08T15:30:00+08:00",
+                    "id": "BOF-1",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-08T14:00:00+08:00",
+                    "track": "Birds of a Feather 1",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-1",
+            "name": "The role of NLP researchers in shaping and supporting a society with ubiquitous AI use",
+            "plenary_events": {},
+            "start_time": "2023-12-08T14:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 2": {
+            "display_name": "NLP on legal texts",
+            "end_time": "2023-12-08T15:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-08T15:30:00+08:00",
+                    "id": "BOF-2",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 2",
+                    "session": "event_session",
+                    "start_time": "2023-12-08T14:00:00+08:00",
+                    "track": "Birds of a Feather 2",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-2",
+            "name": "NLP on legal texts",
+            "plenary_events": {},
+            "start_time": "2023-12-08T14:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 3": {
+            "display_name": "Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)",
+            "end_time": "2023-12-08T17:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-08T17:30:00+08:00",
+                    "id": "BOF-3",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-08T16:00:00+08:00",
+                    "track": "Birds of a Feather 3",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-3",
+            "name": "Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)",
+            "plenary_events": {},
+            "start_time": "2023-12-08T16:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Affinity Group Meeting 1": {
+            "display_name": "Queer in AI social at EMNLP",
+            "end_time": "2023-12-08T17:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-08T17:30:00+08:00",
+                    "id": "AGM-1",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 3/4",
+                    "session": "event_session",
+                    "start_time": "2023-12-08T17:30:00+08:00",
+                    "track": "Affinity Group Meeting 1",
+                    "type": "Socials"
+                }
+            },
+            "id": "AGM-1",
+            "name": "Queer in AI social at EMNLP",
+            "plenary_events": {},
+            "start_time": "2023-12-08T17:30:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 4": {
+            "display_name": "EthioNLP",
+            "end_time": "2023-12-09T10:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T10:30:00+08:00",
+                    "id": "BOF-4",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T09:00:00+08:00",
+                    "track": "Birds of a Feather 4",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-4",
+            "name": "EthioNLP",
+            "plenary_events": {},
+            "start_time": "2023-12-09T09:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 5": {
+            "display_name": "NLP for Climate Change",
+            "end_time": "2023-12-09T10:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T10:30:00+08:00",
+                    "id": "BOF-5",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 2",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T09:00:00+08:00",
+                    "track": "Birds of a Feather 5",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-5",
+            "name": "NLP for Climate Change",
+            "plenary_events": {},
+            "start_time": "2023-12-09T09:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 6": {
+            "display_name": "Embeddings",
+            "end_time": "2023-12-09T12:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T12:30:00+08:00",
+                    "id": "BOF-6",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T11:00:00+08:00",
+                    "track": "Birds of a Feather 6",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-6",
+            "name": "Embeddings",
+            "plenary_events": {},
+            "start_time": "2023-12-09T11:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 7": {
+            "display_name": "Recipes in Building Language Reasoners",
+            "end_time": "2023-12-09T12:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T12:30:00+08:00",
+                    "id": "BOF-7",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 2",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T11:00:00+08:00",
+                    "track": "Birds of a Feather 7",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-7",
+            "name": "Recipes in Building Language Reasoners",
+            "plenary_events": {},
+            "start_time": "2023-12-09T11:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 8": {
+            "display_name": "ACL Mentorship: Sharing learnings from this conference & identifying promising research directions",
+            "end_time": "2023-12-09T14:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T14:30:00+08:00",
+                    "id": "BOF-8",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T13:45:00+08:00",
+                    "track": "Birds of a Feather 8",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-8",
+            "name": "ACL Mentorship: Sharing learnings from this conference & identifying promising research directions",
+            "plenary_events": {},
+            "start_time": "2023-12-09T13:45:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 9": {
+            "display_name": "Controlled/Constrained Text Generation",
+            "end_time": "2023-12-09T14:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T14:30:00+08:00",
+                    "id": "BOF-9",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 2",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T13:45:00+08:00",
+                    "track": "Birds of a Feather 9",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-9",
+            "name": "Controlled/Constrained Text Generation",
+            "plenary_events": {},
+            "start_time": "2023-12-09T13:45:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 10": {
+            "display_name": "Arabic NLP",
+            "end_time": "2023-12-09T14:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-09T14:30:00+08:00",
+                    "id": "BOF-10",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 4",
+                    "session": "event_session",
+                    "start_time": "2023-12-09T13:45:00+08:00",
+                    "track": "Birds of a Feather 10",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-10",
+            "name": "Arabic NLP",
+            "plenary_events": {},
+            "start_time": "2023-12-09T13:45:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 11": {
+            "display_name": "Discourse & Pragmatics",
+            "end_time": "2023-12-10T10:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-10T10:30:00+08:00",
+                    "id": "BOF-11",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-10T09:00:00+08:00",
+                    "track": "Birds of a Feather 11",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-11",
+            "name": "Discourse & Pragmatics",
+            "plenary_events": {},
+            "start_time": "2023-12-10T09:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Affinity Group Meeting 2": {
+            "display_name": "Christians@NLP",
+            "end_time": "2023-12-10T10:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-10T10:30:00+08:00",
+                    "id": "AGM-2",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 2",
+                    "session": "event_session",
+                    "start_time": "2023-12-10T09:00:00+08:00",
+                    "track": "Affinity Group Meeting 2",
+                    "type": "Socials"
+                }
+            },
+            "id": "AGM-2",
+            "name": "Christians@NLP",
+            "plenary_events": {},
+            "start_time": "2023-12-10T09:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
+        "Birds of a Feather 12": {
+            "display_name": "Text Simplification and Readability",
+            "end_time": "2023-12-10T12:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-10T12:30:00+08:00",
+                    "id": "BOF-12",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 1",
+                    "session": "event_session",
+                    "start_time": "2023-12-10T11:00:00+08:00",
+                    "track": "Birds of a Feather 12",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-12",
+            "name": "Text Simplification and Readability",
+            "plenary_events": {},
+            "start_time": "2023-12-10T11:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
             "workshop_events": {}
         },
         "Coffee Break 1": {
@@ -78701,12 +79051,12 @@
         }
     },
     "tutorials": {
-        "t01": {
-            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.01",
+        "t1": {
+            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.1",
             "chairs": [],
             "description": "Natural language and visualization (Vis) are two powerful modalities of human communication. The goal of this tutorial is to push forward the agenda of tightly integrating these two modalities. To this end, the tutorial will introduce NLP+Vis with a focus on two main threads of work: \\textit{(i) NLP for Vis:} How to develop and adapt state-of-the-art NLP models for solving various visualization tasks? and \\textit{(ii) Vis for NLP:} How to leverage visualization techniques to interpret and explain complex NLP models effectively? The tutorial will first motivate why NLP+Vis is an important area of research and provide an overview of research topics on combining NLP and Vis techniques. Then an overview of state-of-the-art deep learning models for NLP will be covered. Next, we will provide an overview of applying visualization techniques to help make NLP models more interpretable and explainable. In the final part, we will focus on various application tasks at the intersection of NLP and Vis. We will conclude with an interactive discussion of future challenges for NLP+Vis applications. The audience will include researchers interested in applying NLP for visualizations as well as others who focus more generally at the intersection of machine learning and visualization.",
             "end_time": "2023-12-06T12:30:00+08:00",
-            "id": "t01",
+            "id": "t1",
             "link": null,
             "organizers": [
                 "Shafiq Joty",
@@ -78716,19 +79066,19 @@
             "paper_ids": [],
             "rocketchat_channel": "tutorial-1",
             "room": "Pisces 1",
-            "session": "t01",
+            "session": "t1",
             "start_time": "2023-12-06T09:00:00+08:00",
             "title": "T01: NLP+Vis: NLP Meets Visualization",
             "track": "Tutorial",
-            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.01.pdf",
+            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.1.pdf",
             "type": "Tutorials"
         },
-        "t02": {
-            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.02",
+        "t2": {
+            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.2",
             "chairs": [],
             "description": "Large-scale natural language processing models have been developed and integrated into numerous applications, given the advantage of their remarkable performance. Nonetheless, the security concerns associated with these models prevent the widespread adoption of these black-box machine learning models. In this tutorial, we will dive into three emerging security issues in NLP research, i.e., backdoor attacks, private data leakage, and imitation attacks. These threats will be introduced in accordance with their threatening usage scenarios, attack methodologies, and defense technologies.",
             "end_time": "2023-12-06T12:30:00+08:00",
-            "id": "t02",
+            "id": "t2",
             "link": null,
             "organizers": [
                 "Qiongkai Xu",
@@ -78737,19 +79087,19 @@
             "paper_ids": [],
             "rocketchat_channel": "tutorial-2",
             "room": "Pisces 2 & 3",
-            "session": "t02",
+            "session": "t2",
             "start_time": "2023-12-06T09:00:00+08:00",
             "title": "T02: Security Challenges in Natural Language Processing Models",
             "track": "Tutorial",
-            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.02.pdf",
+            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.2.pdf",
             "type": "Tutorials"
         },
-        "t03": {
-            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.03",
+        "t3": {
+            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.3",
             "chairs": [],
             "description": "The rapid advancement of natural language processing (NLP) research has led to various applications spanning a wide range of domains that require models to interact with humans \u2014 e.g., chatbots responding to human inquiries, machine translation systems assisting human translators, designers prompting Large Language Models for co-creation or prototyping AI-infused applications, etc. In these cases, humans interaction is key to the success of NLP applications; any potential misconceptions or differences might lead to error cascades at the subsequent stages. Such interaction involves a lot of design choices around models, e.g. the sensitivity of interfaces, the impact of design choice and evaluation questions, etc.This tutorial aims to provide a systematic and up-to-date overview of key considerations and effective approaches for studying human-NLP model interactions. Our tutorial will focus specifically on the scenario where end users \u2013 lay people and domain experts who have access to NLP models but are less familiar with NLP techniques \u2014 use or collaborate with deployed models.Throughout the tutorial, we will use five case studies (on classifier-assisted decision making, machine-aided translation, dialog systems, and prompting) to cover three major themes: (1) how to conduct human-in-the-loop usability evaluations to ensure that models are capable of interacting with humans; (2) how to design user interfaces (UIs) and interaction mechanisms that provide end users with easy access to NLP models; (3) how to learn and improve NLP models through the human interactions. We will use best practices from HCI to ground our discussion, and will highlight current challenges and future directions.",
             "end_time": "2023-12-06T12:30:00+08:00",
-            "id": "t03",
+            "id": "t3",
             "link": null,
             "organizers": [
                 "Tongshuang Wu",
@@ -78759,19 +79109,19 @@
             "paper_ids": [],
             "rocketchat_channel": "tutorial-3",
             "room": "Leo 3 & 4",
-            "session": "t03",
+            "session": "t3",
             "start_time": "2023-12-06T09:00:00+08:00",
             "title": "T03: Designing, Evaluating, and Learning from Humans Interacting with NLP Models",
             "track": "Tutorial",
-            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.03.pdf",
+            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.3.pdf",
             "type": "Tutorials"
         },
-        "t04": {
-            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.04",
+        "t4": {
+            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.4",
             "chairs": [],
             "description": "The progress of natural language processing (NLP) is primarily driven by machine learning that optimizes a system on a large-scale set of task-specific labeled examples. This learning paradigm limits the ability of machines to have the same capabilities as humans in handling new tasks since humans can often solve unseen tasks with a couple of examples accompanied by task instructions. In addition, we may not have a chance to prepare task-specific examples of large-volume for new tasks because we cannot foresee what task needs to be addressed next and how complex to annotate for it. Therefore, task instructions act as a novel and promising resource for supervision. This tutorial targets researchers and practitioners who are interested in AI and ML technologies for NLP generalization in a low-shot scenario. In particular, we will present a diverse thread of instruction-driven NLP studies that try to answer the following questions: (i) What is task instruction? (ii) How is the process of creating datasets and evaluating systems conducted? (iii) How to encode task instructions? (iv) When and why do some instructions work better? (v) What concerns remain in LLM-driven instruction following? We will discuss several lines of frontier research that tackle those challenges and will conclude the tutorial by outlining directions for further investigation.",
             "end_time": "2023-12-06T17:30:00+08:00",
-            "id": "t04",
+            "id": "t4",
             "link": null,
             "organizers": [
                 "Wenpeng Yin",
@@ -78783,19 +79133,19 @@
             "paper_ids": [],
             "rocketchat_channel": "tutorial-4",
             "room": "Leo 3 & 4",
-            "session": "t04",
+            "session": "t4",
             "start_time": "2023-12-06T14:00:00+08:00",
             "title": "T04: LLM-driven Instruction Following: Progresses and Concerns",
             "track": "Tutorial",
-            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.04.pdf",
+            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.4.pdf",
             "type": "Tutorials"
         },
-        "t05": {
-            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.05",
+        "t5": {
+            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.5",
             "chairs": [],
             "description": "Numerous recent studies have highlighted societal harms that can be caused by language technologies deployed in the wild. While several surveys, tutorials, and workshops have discussed the risks of harms in specific contexts -- e.g., detecting and mitigating gender bias in NLP models -- no prior work has developed a unified typology of technical approaches for mitigating harms of language generation models. Our tutorial is based on a survey we recently wrote that proposes such a typology. We will provide an overview of potential social issues in language generation, including toxicity, social biases, misinformation, factual inconsistency, and privacy violations. Our primary focus will be on how to systematically identify risks, and how eliminate them at various stages of model development, from data collection, to model development, to inference/language generation. Through this tutorial, we aim to equip NLP researchers and engineers with a suite of practical tools for mitigating safety risks from pretrained language generation models.",
             "end_time": "2023-12-06T17:31:00+08:00",
-            "id": "t05",
+            "id": "t5",
             "link": null,
             "organizers": [
                 "Sachin Kumar",
@@ -78806,19 +79156,19 @@
             "paper_ids": [],
             "rocketchat_channel": "tutorial-5",
             "room": "Pisces 1",
-            "session": "t05",
+            "session": "t5",
             "start_time": "2023-12-06T14:00:00+08:00",
             "title": "T05: Mitigating Societal Harms in Large Language Models",
             "track": "Tutorial",
-            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.05.pdf",
+            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.5.pdf",
             "type": "Tutorials"
         },
-        "t06": {
-            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.06",
+        "t6": {
+            "anthology_url": "https://aclanthology.org/2023.emnlp-tutorials.6",
             "chairs": [],
             "description": "Large language models such as GPT-3, GPT4, Claude etc., have advanced the state of the art in several natural language generation tasks such as text summarization and machine translation. However, when it comes to open-ended tasks with a focus on creativity such as generating stories, poetry, or various forms of figurative language, these state-of-the-art language models are often found to be inadequate.This tutorial aims to bring awareness of the important and emerging research area of open-domain creative generation, with a focus on language generation while also touching on multi-modal generation (e.g., image captioning, visual metaphors). It targets natural language processing (NLP) and artificial intelligence (AI) researchers as well as creative writing practitioners who are interested in building systems that are capable of emulating as well as augmenting human creativity. In particular, we will review recent studies on creative language generation both at the sentence level as well as longer forms of text. We will provide the audiences with a holistic view of 1) the importance and challenges of building creative language generation systems; 2) how we incorporate content planning, domain knowledge, and creativity-specific heuristics for different forms of creative language generation such as story, poetry, humor, metaphors, etc 3) how can we build better evaluation methods for creative text generation in standalone as well as interactive settings? In particular, how could the recent advancement of AI shape the future workforce for creativity? We will conclude the tutorial by outlining future research directions in this area.",
             "end_time": "2023-12-06T17:32:00+08:00",
-            "id": "t06",
+            "id": "t6",
             "link": null,
             "organizers": [
                 "Tuhin Chakrabarty",
@@ -78829,11 +79179,11 @@
             "paper_ids": [],
             "rocketchat_channel": "tutorial-6",
             "room": "Pisces 2 & 3",
-            "session": "t06",
+            "session": "t6",
             "start_time": "2023-12-06T14:00:00+08:00",
             "title": "T06: Creative Natural Language Generation",
             "track": "Tutorial",
-            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.06.pdf",
+            "tutorial_pdf": "https://aclanthology.org/2023.emnlp-tutorials.6.pdf",
             "type": "Tutorials"
         }
     },

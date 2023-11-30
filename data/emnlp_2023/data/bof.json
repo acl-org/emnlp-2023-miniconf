@@ -1,0 +1,352 @@
+{
+    "Birds of a Feather 1": {
+        "display_name": "The role of NLP researchers in shaping and supporting a society with ubiquitous AI use",
+        "end_time": "2023-12-08T15:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-08T15:30:00+08:00",
+                "id": "BOF-1",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-08T14:00:00+08:00",
+                "track": "Birds of a Feather 1",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-1",
+        "name": "The role of NLP researchers in shaping and supporting a society with ubiquitous AI use",
+        "plenary_events": {},
+        "start_time": "2023-12-08T14:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 2": {
+        "display_name": "NLP on legal texts",
+        "end_time": "2023-12-08T15:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-08T15:30:00+08:00",
+                "id": "BOF-2",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 2",
+                "session": "event_session",
+                "start_time": "2023-12-08T14:00:00+08:00",
+                "track": "Birds of a Feather 2",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-2",
+        "name": "NLP on legal texts",
+        "plenary_events": {},
+        "start_time": "2023-12-08T14:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 3": {
+        "display_name": "Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)",
+        "end_time": "2023-12-08T17:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-08T17:30:00+08:00",
+                "id": "BOF-3",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-08T16:00:00+08:00",
+                "track": "Birds of a Feather 3",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-3",
+        "name": "Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)",
+        "plenary_events": {},
+        "start_time": "2023-12-08T16:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Affinity Group Meeting 1": {
+        "display_name": "Queer in AI social at EMNLP",
+        "end_time": "2023-12-08T17:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-08T17:30:00+08:00",
+                "id": "AGM-1",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 3/4",
+                "session": "event_session",
+                "start_time": "2023-12-08T17:30:00+08:00",
+                "track": "Affinity Group Meeting 1",
+                "type": "Socials"
+            }
+        },
+        "id": "AGM-1",
+        "name": "Queer in AI social at EMNLP",
+        "plenary_events": {},
+        "start_time": "2023-12-08T17:30:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 4": {
+        "display_name": "EthioNLP",
+        "end_time": "2023-12-09T10:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T10:30:00+08:00",
+                "id": "BOF-4",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-09T09:00:00+08:00",
+                "track": "Birds of a Feather 4",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-4",
+        "name": "EthioNLP",
+        "plenary_events": {},
+        "start_time": "2023-12-09T09:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 5": {
+        "display_name": "NLP for Climate Change",
+        "end_time": "2023-12-09T10:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T10:30:00+08:00",
+                "id": "BOF-5",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 2",
+                "session": "event_session",
+                "start_time": "2023-12-09T09:00:00+08:00",
+                "track": "Birds of a Feather 5",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-5",
+        "name": "NLP for Climate Change",
+        "plenary_events": {},
+        "start_time": "2023-12-09T09:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 6": {
+        "display_name": "Embeddings",
+        "end_time": "2023-12-09T12:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T12:30:00+08:00",
+                "id": "BOF-6",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-09T11:00:00+08:00",
+                "track": "Birds of a Feather 6",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-6",
+        "name": "Embeddings",
+        "plenary_events": {},
+        "start_time": "2023-12-09T11:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 7": {
+        "display_name": "Recipes in Building Language Reasoners",
+        "end_time": "2023-12-09T12:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T12:30:00+08:00",
+                "id": "BOF-7",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 2",
+                "session": "event_session",
+                "start_time": "2023-12-09T11:00:00+08:00",
+                "track": "Birds of a Feather 7",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-7",
+        "name": "Recipes in Building Language Reasoners",
+        "plenary_events": {},
+        "start_time": "2023-12-09T11:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 8": {
+        "display_name": "ACL Mentorship: Sharing learnings from this conference & identifying promising research directions",
+        "end_time": "2023-12-09T14:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T14:30:00+08:00",
+                "id": "BOF-8",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-09T13:45:00+08:00",
+                "track": "Birds of a Feather 8",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-8",
+        "name": "ACL Mentorship: Sharing learnings from this conference & identifying promising research directions",
+        "plenary_events": {},
+        "start_time": "2023-12-09T13:45:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 9": {
+        "display_name": "Controlled/Constrained Text Generation",
+        "end_time": "2023-12-09T14:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T14:30:00+08:00",
+                "id": "BOF-9",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 2",
+                "session": "event_session",
+                "start_time": "2023-12-09T13:45:00+08:00",
+                "track": "Birds of a Feather 9",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-9",
+        "name": "Controlled/Constrained Text Generation",
+        "plenary_events": {},
+        "start_time": "2023-12-09T13:45:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 10": {
+        "display_name": "Arabic NLP",
+        "end_time": "2023-12-09T14:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T14:30:00+08:00",
+                "id": "BOF-10",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 4",
+                "session": "event_session",
+                "start_time": "2023-12-09T13:45:00+08:00",
+                "track": "Birds of a Feather 10",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-10",
+        "name": "Arabic NLP",
+        "plenary_events": {},
+        "start_time": "2023-12-09T13:45:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 11": {
+        "display_name": "Discourse & Pragmatics",
+        "end_time": "2023-12-10T10:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-10T10:30:00+08:00",
+                "id": "BOF-11",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-10T09:00:00+08:00",
+                "track": "Birds of a Feather 11",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-11",
+        "name": "Discourse & Pragmatics",
+        "plenary_events": {},
+        "start_time": "2023-12-10T09:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Affinity Group Meeting 2": {
+        "display_name": "Christians@NLP",
+        "end_time": "2023-12-10T10:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-10T10:30:00+08:00",
+                "id": "AGM-2",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 2",
+                "session": "event_session",
+                "start_time": "2023-12-10T09:00:00+08:00",
+                "track": "Affinity Group Meeting 2",
+                "type": "Socials"
+            }
+        },
+        "id": "AGM-2",
+        "name": "Christians@NLP",
+        "plenary_events": {},
+        "start_time": "2023-12-10T09:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    },
+    "Birds of a Feather 12": {
+        "display_name": "Text Simplification and Readability",
+        "end_time": "2023-12-10T12:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-10T12:30:00+08:00",
+                "id": "BOF-12",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 1",
+                "session": "event_session",
+                "start_time": "2023-12-10T11:00:00+08:00",
+                "track": "Birds of a Feather 12",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-12",
+        "name": "Text Simplification and Readability",
+        "plenary_events": {},
+        "start_time": "2023-12-10T11:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
+    }
+}
