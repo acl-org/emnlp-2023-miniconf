@@ -62,7 +62,7 @@
   <script src="https://cdn.jsdelivr.net/npm/pdfjs-dist@2.3.200/build/pdf.min.js"></script>
   <script src="static/js/pdf_render.js"></script>
 
-  <title>EMNLP2023: T02: Security Challenges in Natural Language Processing Models</title>
+  <title>EMNLP2023: Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!</title>
   
 
   <!-- Favicon -->
@@ -167,8 +167,7 @@
           
           <li class="nav-item ">
             
-            <a class="nav-link" href="https://drive.google.com/file/d/13hUJi0VUzrySldAK2Rd-FLO_9DDPPDP6/view
-  " target="_blank"><u>Handbook</u></a>
+            <a class="nav-link" href="https://2023.emnlp.org/program/" target="_blank"><u>Handbook</u></a>
             
           </li>
           
@@ -201,32 +200,57 @@
 <!-- Title -->
 <div class="pp-card m-3" style="">
   <div class="card-header">
-    <h2 class="card-title main-title text-center" style="">
-      <!--t02: T02: Security Challenges in Natural Language Processing Models-->
-      T02: Security Challenges in Natural Language Processing Models
+    <h2 class="card-title main-title text-center" style="color:black">
+      Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!
     </h2>
+    
     <h3 class="card-subtitle mb-2 text-muted text-center">
-      Qiongkai Xu, Xuanli He
+      Christopher D. Manning
+      
+      / Stanford University
+      
     </h3>
+    
 
     <div class="text-center p-3">
       
-      <a class="card-link link-info" target="_blank" href="https://aclanthology.org/2023.emnlp-tutorials.02">
-        <img src='/static/images/acl2023/acl-logo.png' height="20"></img> Anthology Page
+      <a class="card-link" data-toggle="collapse" role="button" href="#abstract">
+        Abstract
       </a>
       
-
       
-      <a class="card-link link-info" target="_blank" href="https://aclanthology.org/2023.emnlp-tutorials.02.pdf">
-        📝 Tutorial PDF 
+      <a class="card-link" data-toggle="collapse" role="button" href="#bio">
+        Bio
       </a>
       
-
-    
-    
     </div>
+    
+<div class="text-center text-muted text-monospace">
+  <div class="paper-session-times">
+    <span>academic-NLP-research-in-the-age-of-LLMs:nothing-but-blue-skies!: Plenary (Plenary Sessions)</span>
+    <div>Conference Room: East &amp; Central  </div>
+    <div>Conference Time: December 10, 14:00-15:00 (+08) (Asia/Singapore)</div>
+    <div>Global Time: December 10, <span class="session_times">academic-NLP-research-in-the-age-of-LLMs:nothing-but-blue-skies! (06:00-07:00 UTC)</span></div>
 
     
+
+    <!--
+  
+    <a href="livestream.html"   class="card-link">
+    [Livestream]
+    </a>
+  
+  -->
+  </div>
+</div>
+
+<div class="text-center text-muted text-monospace">
+  <div class="paper-cal-links">
+    <img src="static/images/calendar.svg" class="paper-detail-calendar" height="24px">
+    <span id="session-cal-link-1"></span>
+  </div>
+</div>
+
 
 <script src="static/js/add-to-calendar.js"></script>
 <script>
@@ -239,83 +263,102 @@
   let calendarNames = Array("google", "off365", "outlook", "ical");
 
   
+  // create a calendar by hand
+  ouicalData = addToCalendarData({
+    options: {
+      class: 'my-class',
+      id: 'my-id'                               // If you don't pass an id, one will be generated for you.
+    },
+    data: {
+      title: 'Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!'.replace("#", " "),
+
+      // Event start date
+      start: new Date("2023-12-10T06:00:00"),
+      end: new Date("2023-12-10T07:00:00"),
+      // duration: 120,                           // Event duration (IN MINUTES)
+      // allday: true,														// Override end time, duration and timezone, triggers 'all day'
+
+      // Event timezone. Will convert the given time to that zone
+      timezone: 'UTC',
+        // Event Address
+        
+
+  // Event Description
+  // NOTE: Cannot use abstract because of it is multi-line. Need to format it.
+  description: 'https://virtual2023.emnlp.org/plenary_session_academic-NLP-research-in-the-age-of-LLMs:nothing-but-blue-skies!.html'
+      }
+    });
+
+  targetNode = document.querySelector('#session-cal-link-1');
+  for (const name of calendarNames) {
+    calendarNodeInner = parser.parseFromString(ouicalData[name], "text/html");
+    calendarNodeSpan = document.createElement("span");
+    calendarNodeSpan.setAttribute("style", "padding: 2px");
+    calendarNodeSpan.appendChild(document.createTextNode("["));
+    calendarNodeSpan.appendChild(calendarNodeInner.getElementsByTagName("a")[0]);
+    calendarNodeSpan.appendChild(document.createTextNode("]"));
+    targetNode.appendChild(calendarNodeSpan);
+  }
+  
 </script>
 
   </div>
 </div>
 
-<div id="details" class="pp-card m-3">
+
+<div id="abstract" class="pp-card m-3 collapse show">
   <div class="card-body">
     <div class="card-text">
-      <div id="abstractExample">
-        <span class="font-weight-bold">Abstract:</span>
-        Large-scale natural language processing models have been developed and integrated into numerous applications, given the advantage of their remarkable performance. Nonetheless, the security concerns associated with these models prevent the widespread adoption of these black-box machine learning models. In this tutorial, we will dive into three emerging security issues in NLP research, i.e., backdoor attacks, private data leakage, and imitation attacks. These threats will be introduced in accordance with their threatening usage scenarios, attack methodologies, and defense technologies. <br />
-      </div>
+      <p>Sunday, December 10 - Time: 14:00 - 15:00</p>
     </div>
-    <p></p>
   </div>
 </div>
 
-<!-- Schedule -->
-<div id="schedule" class="collapse" aria-labelledby="schedule">
+
+
+<div id="bio" class="pp-card m-3 collapse">
   <div class="card-body">
-    <table class="table table-bordered table-striped" style="font-size: small;">
-      <thead>
-        <tr>
-          <th scope="col" style="width: 30%;">Time</th>
-          <th scope="col" style="width: 40%;">Event</th>
-          <th scope="col">Hosts</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-            <td>
-              Wednesday, <span class="session_times">09:00</span>
-            </td>
-          <td scope="row">T02: Security Challenges in Natural Language Processing Models</td>
-          <td style="white-space: pre-wrap;">Qiongkai Xu, Xuanli He</td>
-        </tr>
-      </tbody>
-    </table>
+    <div class="card-text">
+      <span class="font-weight-bold">Bio:</span>
+      <p>Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research goal is computers that can intelligently process, understand, and generate human languages. Manning was an early leader in applying Deep Learning to Natural Language Processing (NLP), with well-known research on the GloVe model of word vectors, attention, machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, sentiment analysis, and summarization. He also focuses on computational linguistic approaches to parsing, natural language inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. Manning has coauthored leading textbooks on statistical approaches to NLP (Manning and Schütze 1999) and information retrieval (Manning, Raghavan, and Schütze, 2008), as well as linguistic monographs on ergativity and complex predicates. His online CS224N Natural Language Processing with Deep Learning videos have been watched by hundreds of thousands of people. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards, and an ACL Test of Time Award. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (@stanfordnlp) and manages development of the Stanford CoreNLP and Stanza software.</p>
+    </div>
   </div>
 </div>
-<script src="static/js/time-extend.js"></script>
+
 
 <div class="container" style="background-color:white; padding: 0px;">
+  <!-- Multiple Videos -->
+  
+
+  <!-- We follow the RC IDs in the main conference -->
+  
+    
+  
+  <div class="text-muted text-center">
+    You can open the
+    <a href="https://acl.rocket.chat/channel/academic-NLP-research-in-the-age-of-LLMs:nothing-but-blue-skies!"
+       target="_blank">#academic-NLP-research-in-the-age-of-LLMs:nothing-but-blue-skies!
+    </a>
+    channel below in a separate window.
+  </div>
+
   <div class="row m-2">
-    <div class="col-md-12 col-xs-12 my-auto p-2" >
-      <b>Information about the virtual format of this tutorial: </b>
+    <!--<div class="col-md-7 col-xs-12 p-2">
+    <div id="accordion">
       
     </div>
-  </div>
+    </div>-->
 
-  <div class="text-muted text-center">
-    
-    <a class="btn btn-outline-danger"
-       href="https://acl.rocket.chat/channel/tutorial-2"
-       target="_blank"
-       style="margin-left: 5px; margin-right: 5px">
-      Chat
-    </a>
-  </div>
-
-  <div class="row m-2">   
-
-    
-      
-    
-
-    <!-- Prerecorded Talk -->
-    
-
-    <!-- RocketChat Channel -->
-    <div class="col-md-12 col-xs-12 p-2">
+    <!--<div class="col-md-5 col-xs-12 p-2">-->
+    <div class="container">
       <div id="gitter" class="slp">
-        <iframe frameborder="0" src="https://acl.rocket.chat/channel/tutorial-2?layout=embedded" height="700px" width="100%" ></iframe>
+        <iframe frameborder="0" src="https://acl.rocket.chat/channel/academic-NLP-research-in-the-age-of-LLMs:nothing-but-blue-skies!?layout=embedded" height="700px" width="100%" ></iframe>
       </div>
     </div>
   </div>
 
+  <!-- Surprise Sessions -->
+  
 </div>
 
 <script src="static/js/time-extend.js"></script>
