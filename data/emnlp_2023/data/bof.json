@@ -76,11 +76,11 @@
     },
     "Affinity Group Meeting 1": {
         "display_name": "Queer in AI social at EMNLP",
-        "end_time": "2023-12-08T17:30:00+08:00",
+        "end_time": "2023-12-08T19:30:00+08:00",
         "events": {
             "id": {
                 "chairs": [],
-                "end_time": "2023-12-08T17:30:00+08:00",
+                "end_time": "2023-12-08T19:30:00+08:00",
                 "id": "AGM-1",
                 "link": null,
                 "paper_ids": [],
