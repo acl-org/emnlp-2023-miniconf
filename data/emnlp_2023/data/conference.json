@@ -79491,17 +79491,17 @@
         },
         "Birds of a Feather 5": {
             "display_name": "NLP for Climate Change",
-            "end_time": "2023-12-09T10:30:00+08:00",
+            "end_time": "2023-12-08T17:00:00+08:00",
             "events": {
                 "id": {
                     "chairs": [],
-                    "end_time": "2023-12-09T10:30:00+08:00",
+                    "end_time": "2023-12-08T17:00:00+08:00",
                     "id": "BOF-5",
                     "link": null,
                     "paper_ids": [],
                     "room": "Aquarius 2",
                     "session": "event_session",
-                    "start_time": "2023-12-09T09:00:00+08:00",
+                    "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Birds of a Feather 5",
                     "type": "Socials"
                 }
@@ -79509,7 +79509,7 @@
             "id": "BOF-5",
             "name": "NLP for Climate Change",
             "plenary_events": {},
-            "start_time": "2023-12-09T09:00:00+08:00",
+            "start_time": "2023-12-08T16:00:00+08:00",
             "tutorial_events": {},
             "type": "Socials",
             "workshop_events": {}
