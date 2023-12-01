@@ -386,15 +386,12 @@ def reformat_plenary_data(plenaries):
         )
         end_time = end_time
         # Load images if we have one
-        if plenary_key == "memorial":
-            plenary.image_url = "invited/drago.jpg"
-            plenary.abstract = plenary.abstract.replace('[image]', '').strip()
-        elif plenary_key == "two-paths-to-intelligence":
-            plenary.image_url = "invited/invited1.jpg"
-        elif plenary_key[:10] == "large-lang":
-            plenary.image_url = "invited/invited2.jpg"
-        elif plenary_key[:10] == "the-future":
-            plenary.image_url = "invited/invited3.jpg"
+        if plenary_key[:10] == "human-cent":
+            plenary.image_url = "invited/Jong_Park.jpg"
+        elif plenary_key[:10] == "from-speec":
+            plenary.image_url = "invited/Emily_Provost.jpg"
+        elif plenary_key[:10] == "academic-N":
+            plenary.image_url = "invited/Christopher_Manning.jpg"
         else:
             plenary.image_url = "emnlp2023/emnlp-2023-logo.png"
         # Add the existing dates to a list of all possible dates
