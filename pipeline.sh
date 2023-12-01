@@ -10,4 +10,5 @@ python data/emnlp_2023/data/generate_break_display.py &&
 python data/emnlp_2023/data/write_break_display_to_conference.py &&
 python data/emnlp_2023/data/generate_coffee_break_json.py &&
 python data/emnlp_2023/data/write_break_to_conference.py &&
-python data/emnlp_2023/data/write_social_event_display_to_confenence.py
+python data/emnlp_2023/data/write_social_event_display_to_confenence.py &&
+python data/emnlp_2023/data/write_keynotes_to_conference.py
