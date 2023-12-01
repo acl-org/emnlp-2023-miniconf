@@ -70533,19 +70533,19 @@
             "type": "Plenary Sessions",
             "video_url": null
         },
-        "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.": {
+        "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments": {
             "abstract": "Saturday, December 09 - Time: 14:30 - 15:30",
             "bio": "Emily Mower Provost is a Professor in Computer Science and Engineering at the University of Michigan. She received her Ph.D. in Electrical Engineering from the University of Southern California (USC), Los Angeles, CA in 2010. She is a Toyota Faculty Scholar (2020) and has been awarded a National Science Foundation CAREER Award (2017), the Oscar Stern Award for Depression Research (2015), a National Science Foundation Graduate Research Fellowship (2004-2007). She is an Associate Editor for IEEE Transactions on Affective Computing and the IEEE Open Journal of Signal Processing. She has also served as Associate Editor for Computer Speech and Language and ACM Transactions on Multimedia. She has received best paper awards or finalist nominations for Interspeech 2008, ACM Multimedia 2014, ICMI 2016, and IEEE Transactions on Affective Computing. Among other organizational duties, she has been Program Chair for ACII (2017, 2021), ICMI (2016, 2018). Her research interests are in human-centered speech and video processing, multimodal interfaces design, and speech-based assistive technology. The goals of her research are motivated by the complexities of the perception and expression of human behavior.",
             "chairs": [],
             "end_time": null,
-            "id": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.",
+            "id": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments",
             "image_url": "null",
             "institution": "University of Michigan",
             "link": null,
             "paper_ids": [],
             "presenter": "Emily Mower Provost",
             "room": "East & Central ",
-            "session": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.",
+            "session": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments",
             "start_time": null,
             "title": "Plenary: From Speech to Emotion to Mood: Mental Health Modeling in Real-World Environments.",
             "track": "Plenary",
@@ -70571,19 +70571,19 @@
             "type": "Plenary Sessions",
             "video_url": null
         },
-        "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!": {
+        "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies": {
             "abstract": "Sunday, December 10 - Time: 14:00 - 15:00",
             "bio": "Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research goal is computers that can intelligently process, understand, and generate human languages. Manning was an early leader in applying Deep Learning to Natural Language Processing (NLP), with well-known research on the GloVe model of word vectors, attention, machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, sentiment analysis, and summarization. He also focuses on computational linguistic approaches to parsing, natural language inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. Manning has coauthored leading textbooks on statistical approaches to NLP (Manning and Sch\u00fctze 1999) and information retrieval (Manning, Raghavan, and Sch\u00fctze, 2008), as well as linguistic monographs on ergativity and complex predicates. His online CS224N Natural Language Processing with Deep Learning videos have been watched by hundreds of thousands of people. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards, and an ACL Test of Time Award. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (@stanfordnlp) and manages development of the Stanford CoreNLP and Stanza software.",
             "chairs": [],
             "end_time": null,
-            "id": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!",
+            "id": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies",
             "image_url": "null",
             "institution": "Stanford University",
             "link": null,
             "paper_ids": [],
             "presenter": "Christopher D. Manning",
             "room": "East & Central ",
-            "session": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!",
+            "session": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies",
             "start_time": null,
             "title": "Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!",
             "track": "Plenary",
@@ -78959,26 +78959,26 @@
                 }
             }
         },
-        "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!": {
+        "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies": {
             "display_name": "Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!",
             "end_time": "2023-12-10T15:00:00+08:00",
             "events": {},
-            "id": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!",
+            "id": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies",
             "name": "Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!",
             "plenary_events": {
-                "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!": {
+                "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies": {
                     "abstract": "Sunday, December 10 - Time: 14:00 - 15:00",
                     "bio": "Christopher Manning is the inaugural Thomas M. Siebel Professor in Machine Learning in the Departments of Linguistics and Computer Science at Stanford University, Director of the Stanford Artificial Intelligence Laboratory (SAIL), and an Associate Director of the Stanford Institute for Human-Centered Artificial Intelligence (HAI). His research goal is computers that can intelligently process, understand, and generate human languages. Manning was an early leader in applying Deep Learning to Natural Language Processing (NLP), with well-known research on the GloVe model of word vectors, attention, machine translation, question answering, self-supervised model pre-training, tree-recursive neural networks, machine reasoning, dependency parsing, sentiment analysis, and summarization. He also focuses on computational linguistic approaches to parsing, natural language inference and multilingual language processing, including being a principal developer of Stanford Dependencies and Universal Dependencies. Manning has coauthored leading textbooks on statistical approaches to NLP (Manning and Sch\u00fctze 1999) and information retrieval (Manning, Raghavan, and Sch\u00fctze, 2008), as well as linguistic monographs on ergativity and complex predicates. His online CS224N Natural Language Processing with Deep Learning videos have been watched by hundreds of thousands of people. He is an ACM Fellow, a AAAI Fellow, and an ACL Fellow, and a Past President of the ACL (2015). His research has won ACL, Coling, EMNLP, and CHI Best Paper Awards, and an ACL Test of Time Award. He has a B.A. (Hons) from The Australian National University and a Ph.D. from Stanford in 1994, and an Honorary Doctorate from U. Amsterdam in 2023, and he held faculty positions at Carnegie Mellon University and the University of Sydney before returning to Stanford. He is the founder of the Stanford NLP group (@stanfordnlp) and manages development of the Stanford CoreNLP and Stanza software.",
                     "chairs": [],
                     "end_time": null,
-                    "id": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!",
+                    "id": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies",
                     "image_url": "null",
                     "institution": "Stanford University",
                     "link": null,
                     "paper_ids": [],
                     "presenter": "Christopher D. Manning",
                     "room": "East & Central ",
-                    "session": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies!",
+                    "session": "academic-NLP-research-in-the-age-of-LLMs-nothing-but-blue-skies",
                     "start_time": null,
                     "title": "Plenary: Academic NLP research in the Age of LLMs: Nothing but blue skies!",
                     "track": "Plenary",
@@ -79023,26 +79023,26 @@
             "type": "Plenary Sessions",
             "workshop_events": {}
         },
-        "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.": {
+        "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments": {
             "display_name": "Plenary: From Speech to Emotion to Mood: Mental Health Modeling in Real-World Environments.",
             "end_time": "2023-12-09T15:30:00+08:00",
             "events": {},
-            "id": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.",
+            "id": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments",
             "name": "Plenary: From Speech to Emotion to Mood: Mental Health Modeling in Real-World Environments.",
             "plenary_events": {
-                "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.": {
+                "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments": {
                     "abstract": "Saturday, December 09 - Time: 14:30 - 15:30",
                     "bio": "Emily Mower Provost is a Professor in Computer Science and Engineering at the University of Michigan. She received her Ph.D. in Electrical Engineering from the University of Southern California (USC), Los Angeles, CA in 2010. She is a Toyota Faculty Scholar (2020) and has been awarded a National Science Foundation CAREER Award (2017), the Oscar Stern Award for Depression Research (2015), a National Science Foundation Graduate Research Fellowship (2004-2007). She is an Associate Editor for IEEE Transactions on Affective Computing and the IEEE Open Journal of Signal Processing. She has also served as Associate Editor for Computer Speech and Language and ACM Transactions on Multimedia. She has received best paper awards or finalist nominations for Interspeech 2008, ACM Multimedia 2014, ICMI 2016, and IEEE Transactions on Affective Computing. Among other organizational duties, she has been Program Chair for ACII (2017, 2021), ICMI (2016, 2018). Her research interests are in human-centered speech and video processing, multimodal interfaces design, and speech-based assistive technology. The goals of her research are motivated by the complexities of the perception and expression of human behavior.",
                     "chairs": [],
                     "end_time": null,
-                    "id": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.",
+                    "id": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments",
                     "image_url": "null",
                     "institution": "University of Michigan",
                     "link": null,
                     "paper_ids": [],
                     "presenter": "Emily Mower Provost",
                     "room": "East & Central ",
-                    "session": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments.",
+                    "session": "from-speech-to-emotion-to-mood-mental-health-modeling-in-real-world-environments",
                     "start_time": null,
                     "title": "Plenary: From Speech to Emotion to Mood: Mental Health Modeling in Real-World Environments.",
                     "track": "Plenary",
