@@ -1,0 +1,9 @@
+user_id: BkfeWYQnviNzXkTzR
+auth_token: fuCuflN8xFxAIoiphaoFe4ru9JiwMRmGUGRifkc0ovy
+server: http://acl.rocket.chat
+conference_file: ???
+command: create_paper_channels
+dry_run: false
+program_json_path: data/emnlp_2023/data/conference.json
+booklet_json_path: data/emnlp_2023/data/booklet_data.json
+workshops_yaml_path: data/emnlp_2023/data/workshops.yaml

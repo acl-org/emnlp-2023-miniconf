@@ -1,0 +1,9 @@
+user_id: BkfeWYQnviNzXkTzR
+auth_token: dotQrSS5PPmwv1Hd-kABz-cWrtvtnfF3GlhWZDeDNVG
+server: https://acl.rocket.chat
+conference_file: ???
+command: create_tutorial_channels
+dry_run: false
+program_json_path: data/emnlp_2023/data/conference.json
+booklet_json_path: data/emnlp_2023/data/booklet_data.json
+workshops_yaml_path: data/emnlp_2023/data/workshops.yaml
