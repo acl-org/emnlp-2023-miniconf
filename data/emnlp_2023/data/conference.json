@@ -73344,6 +73344,31 @@
             "type": "Socials",
             "workshop_events": {}
         },
+        "Birds of a Feather 13": {
+            "display_name": "Automatic Text Evaluation",
+            "end_time": "2023-12-10T12:30:00+08:00",
+            "events": {
+                "id": {
+                    "chairs": [],
+                    "end_time": "2023-12-10T12:30:00+08:00",
+                    "id": "BOF-13",
+                    "link": null,
+                    "paper_ids": [],
+                    "room": "Aquarius 2",
+                    "session": "event_session",
+                    "start_time": "2023-12-10T11:00:00+08:00",
+                    "track": "Birds of a Feather 13",
+                    "type": "Socials"
+                }
+            },
+            "id": "BOF-13",
+            "name": "Automatic Text Evaluation",
+            "plenary_events": {},
+            "start_time": "2023-12-10T11:00:00+08:00",
+            "tutorial_events": {},
+            "type": "Socials",
+            "workshop_events": {}
+        },
         "Coffee Break 1": {
             "display_name": "Coffee Break 1",
             "end_time": "2023-12-06T11:00:00+08:00",
