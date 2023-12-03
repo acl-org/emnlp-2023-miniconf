@@ -773,7 +773,7 @@ class Emnlp2023Parser:
         logging.info("Parsing poster papers")
         df = pd.read_csv(self.poster_tsv_path, sep="\t")
         # Industry papers are missing their track
-        df.loc[df.Category == "Industry", "Track"] = "Industry"
+        #df.loc[df.Category == "Industry", "Track"] = "Industry"
         df = fix_col_names(df[df.PID.notnull()])
         group_type = "Poster"
         for (group_session, group_track), group in df.groupby(["Session", "Track"]):
