@@ -1,0 +1,55 @@
+[2023-12-06 12:16:53,596][werkzeug][INFO] - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:7777
+ * Running on http://192.168.31.109:7777
+[2023-12-06 12:16:53,596][werkzeug][INFO] - [33mPress CTRL+C to quit[0m
+[2023-12-06 12:16:53,597][werkzeug][INFO] -  * Restarting with stat
+[2023-12-06 12:16:53,967][werkzeug][WARNING] -  * Debugger is active!
+[2023-12-06 12:16:53,975][werkzeug][INFO] -  * Debugger PIN: 133-269-402
+[2023-12-06 12:17:04,664][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[32mGET / HTTP/1.1[0m" 302 -
+[2023-12-06 12:17:04,722][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "GET /index.html HTTP/1.1" 200 -
+[2023-12-06 12:17:04,758][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,759][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,759][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,759][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,760][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,762][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,762][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,763][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,763][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,765][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,765][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/images/emnlp2023/emnlp-2023-logo.png HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,769][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,779][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "GET /static/images/emnlp2023/singapore_1.jpg HTTP/1.1" 200 -
+[2023-12-06 12:17:04,812][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/Lato-Black.ttf HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:04,812][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:04] "[36mGET /static/css/Lato-Regular.ttf HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,424][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "GET /schedule.html HTTP/1.1" 200 -
+[2023-12-06 12:17:09,448][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,454][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,455][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,457][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,457][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,460][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,462][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,464][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,464][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,465][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,465][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/images/emnlp2023/emnlp-2023-logo.png HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,466][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:09,523][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "GET /schedule.json HTTP/1.1" 200 -
+[2023-12-06 12:17:09,626][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:09] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,645][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "GET /sessions.html HTTP/1.1" 200 -
+[2023-12-06 12:17:17,652][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/js/typeahead.bundle.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,655][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/Exo.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,655][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/Lato.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,655][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/Cuprum.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,657][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/main.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,657][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/chats-modal.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,658][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/lazy_load.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,659][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/css/typeahead.css HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,659][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/js/pdf_render.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,660][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/images/emnlp2023/emnlp-2023-logo.png HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,669][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/js/time-extend.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,669][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/js/lazy_load.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,673][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/js/highly-active-chats.js HTTP/1.1[0m" 304 -
+[2023-12-06 12:17:17,754][werkzeug][INFO] - 127.0.0.1 - - [06/Dec/2023 12:17:17] "[36mGET /static/favicon/site.webmanifest HTTP/1.1[0m" 304 -
