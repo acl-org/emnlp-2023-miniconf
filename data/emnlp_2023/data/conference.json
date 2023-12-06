@@ -1,33 +1,5 @@
 {
     "events": {
-        "findings-1-(virtual)-(session-2)_-human-centered-nlp-(poster)": {
-            "chairs": [],
-            "end_time": "2023-12-08T12:30:00+08:00",
-            "id": "findings-1-(virtual)-(session-2)_-human-centered-nlp-(poster)",
-            "link": null,
-            "paper_ids": [
-                "863"
-            ],
-            "room": "nan",
-            "session": "Findings 1 (virtual) (Session 2)",
-            "start_time": "2023-12-08T11:00:00+08:00",
-            "track": "Human-Centered NLP",
-            "type": "Poster"
-        },
-        "findings-1-(virtual)-(session-2)_-semantics_-lexical,-sentence-level,-document-level,-textual-inference,-etc.-(poster)": {
-            "chairs": [],
-            "end_time": "2023-12-08T12:30:00+08:00",
-            "id": "findings-1-(virtual)-(session-2)_-semantics_-lexical,-sentence-level,-document-level,-textual-inference,-etc.-(poster)",
-            "link": null,
-            "paper_ids": [
-                "807"
-            ],
-            "room": "nan",
-            "session": "Findings 1 (virtual) (Session 2)",
-            "start_time": "2023-12-08T11:00:00+08:00",
-            "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
-            "type": "Poster"
-        },
         "poster_demo_industry-hybrid-1_-demo-(poster)": {
             "chairs": [],
             "end_time": "2023-12-08T12:30:00+08:00",
@@ -37,7 +9,7 @@
                 "Demo-129",
                 "Demo-147"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Demo",
@@ -52,7 +24,7 @@
                 "388",
                 "481"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -66,7 +38,7 @@
             "paper_ids": [
                 "2128"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Human-Centered NLP",
@@ -80,7 +52,7 @@
             "paper_ids": [
                 "INDUSTRY-198"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Industry",
@@ -101,7 +73,7 @@
                 "TACL-5061",
                 "TACL-5221"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Information Extraction",
@@ -117,7 +89,7 @@
                 "2693",
                 "4763"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -132,7 +104,7 @@
                 "3987",
                 "TACL-4491"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Multilinguality and Linguistic Diversity",
@@ -151,7 +123,7 @@
                 "ARR-81",
                 "ARR-98"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "NLP Applications",
@@ -166,7 +138,7 @@
                 "Demo-149",
                 "Demo-151"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Demo",
@@ -180,7 +152,7 @@
             "paper_ids": [
                 "INDUSTRY-211"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Industry",
@@ -200,7 +172,7 @@
                 "3448",
                 "ARR-30"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Information Extraction",
@@ -219,7 +191,7 @@
                 "3919",
                 "TACL-5499"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Language Modeling and Analysis of Language Models",
@@ -235,7 +207,7 @@
                 "1423",
                 "3445"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Machine Translation",
@@ -253,7 +225,7 @@
                 "4328",
                 "ARR-34"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Natural Language Generation",
@@ -267,7 +239,7 @@
             "paper_ids": [
                 "CL-2261"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "NLP Applications",
@@ -283,7 +255,7 @@
                 "4228",
                 "ARR-52"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -299,7 +271,7 @@
                 "Demo-187",
                 "Demo-189"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Demo",
@@ -316,7 +288,7 @@
                 "2364",
                 "ARR-25"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -330,7 +302,7 @@
             "paper_ids": [
                 "INDUSTRY-141"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Industry",
@@ -344,7 +316,7 @@
             "paper_ids": [
                 "CL-2300"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Phonology, Morphology, and Word Segmentation",
@@ -359,7 +331,7 @@
                 "3633",
                 "TACL-5261"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Question Answering",
@@ -374,7 +346,7 @@
                 "1504",
                 "4132"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -395,7 +367,7 @@
                 "3251",
                 "ARR-113"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -409,7 +381,7 @@
             "paper_ids": [
                 "ARR-28"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -427,7 +399,7 @@
                 "4557",
                 "4565"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Speech and Multimodality",
@@ -441,7 +413,7 @@
             "paper_ids": [
                 "5446"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -461,7 +433,7 @@
                 "4225",
                 "4813"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Efficient Methods for NLP",
@@ -476,7 +448,7 @@
                 "INDUSTRY-122",
                 "INDUSTRY-142"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Industry",
@@ -498,7 +470,7 @@
                 "ARR-47",
                 "ARR-107"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -512,7 +484,7 @@
             "paper_ids": [
                 "113"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -527,7 +499,7 @@
                 "2762",
                 "4737"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -541,7 +513,7 @@
             "paper_ids": [
                 "ARR-59"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Speech and Multimodality",
@@ -559,7 +531,7 @@
                 "1124",
                 "2036"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -575,7 +547,7 @@
                 "Demo-222",
                 "Demo-237"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Demo",
@@ -590,7 +562,7 @@
                 "216",
                 "294"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Efficient Methods for NLP",
@@ -607,7 +579,7 @@
                 "4136",
                 "5132"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Ethics in NLP",
@@ -621,7 +593,7 @@
             "paper_ids": [
                 "INDUSTRY-162"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Industry",
@@ -639,7 +611,7 @@
                 "4690",
                 "ARR-86"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -658,7 +630,7 @@
                 "4812",
                 "ARR-102"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Summarization",
@@ -675,7 +647,7 @@
                 "3607",
                 "4487"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -692,7 +664,7 @@
                 "2908",
                 "5018"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Computational Social Science and Cultural Analytics",
@@ -706,7 +678,7 @@
             "paper_ids": [
                 "INDUSTRY-23"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Industry",
@@ -723,7 +695,7 @@
                 "2195",
                 "2676"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Information Retrieval and Text Mining",
@@ -743,7 +715,7 @@
                 "4839",
                 "TACL-4049"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Machine Learning for NLP",
@@ -766,7 +738,7 @@
                 "ARR-15",
                 "ARR-103"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "NLP Applications",
@@ -781,7 +753,7 @@
                 "Demo-202",
                 "Demo-203"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Demo",
@@ -813,7 +785,7 @@
                 "INDUSTRY-197",
                 "INDUSTRY-147"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Industry",
@@ -827,7 +799,7 @@
             "paper_ids": [
                 "4227"
             ],
-            "room": "Virtual",
+            "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -850,7 +822,7 @@
                 "Demo-144",
                 "Demo-153"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Demo",
@@ -881,7 +853,7 @@
                 "2177",
                 "2180"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -906,7 +878,7 @@
                 "5493",
                 "TACL-5549"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Human-Centered NLP",
@@ -921,7 +893,7 @@
                 "INDUSTRY-61",
                 "INDUSTRY-15"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Industry",
@@ -952,7 +924,7 @@
                 "5742",
                 "5879"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Information Extraction",
@@ -1003,7 +975,7 @@
                 "4808",
                 "ARR-13"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -1025,7 +997,7 @@
                 "5634",
                 "TACL-5199"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -1057,7 +1029,7 @@
                 "TACL-5485",
                 "TACL-5497"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Multilinguality and Linguistic Diversity",
@@ -1071,7 +1043,7 @@
             "paper_ids": [
                 "3726"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Natural Language Generation",
@@ -1108,7 +1080,7 @@
                 "2257",
                 "2316"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 1",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "NLP Applications",
@@ -1124,7 +1096,7 @@
                 "Demo-162",
                 "Demo-166"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Demo",
@@ -1138,7 +1110,7 @@
             "paper_ids": [
                 "5193"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Ethics in NLP",
@@ -1168,7 +1140,7 @@
                 "3709",
                 "4408"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Information Extraction",
@@ -1182,7 +1154,7 @@
             "paper_ids": [
                 "4104"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -1196,7 +1168,7 @@
             "paper_ids": [
                 "344"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -1250,7 +1222,7 @@
                 "TACL-4889",
                 "TACL-4983"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Language Modeling and Analysis of Language Models",
@@ -1265,7 +1237,7 @@
                 "5093",
                 "4512"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Machine Learning for NLP",
@@ -1307,7 +1279,7 @@
                 "TACL-5343",
                 "CL-2329"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Machine Translation",
@@ -1340,7 +1312,7 @@
                 "2637",
                 "3037"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Natural Language Generation",
@@ -1361,7 +1333,7 @@
                 "3905",
                 "3974"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "NLP Applications",
@@ -1396,7 +1368,7 @@
                 "3682",
                 "3743"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 2",
             "start_time": "2023-12-08T14:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -1413,7 +1385,7 @@
                 "Demo-196",
                 "Demo-200"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Demo",
@@ -1451,7 +1423,7 @@
                 "ARR-93",
                 "ARR-110"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -1465,7 +1437,7 @@
             "paper_ids": [
                 "INDUSTRY-99"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Industry",
@@ -1479,7 +1451,7 @@
             "paper_ids": [
                 "1077"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Information Extraction",
@@ -1493,7 +1465,7 @@
             "paper_ids": [
                 "297"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Information Retrieval and Text Mining",
@@ -1509,7 +1481,7 @@
                 "CL-2232",
                 "CL-2255"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Phonology, Morphology, and Word Segmentation",
@@ -1558,7 +1530,7 @@
                 "TACL-5373",
                 "CL-2305"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Question Answering",
@@ -1605,7 +1577,7 @@
                 "3090",
                 "3100"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -1639,7 +1611,7 @@
                 "TACL-5321",
                 "TACL-5333"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -1668,7 +1640,7 @@
                 "TACL-5195",
                 "TACL-5491"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Speech and Multimodality",
@@ -1682,7 +1654,7 @@
             "paper_ids": [
                 "2458"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 3",
             "start_time": "2023-12-08T16:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -1704,7 +1676,7 @@
                 "4322",
                 "517"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Commonsense Reasoning",
@@ -1721,7 +1693,7 @@
                 "Demo-224",
                 "Demo-226"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Demo",
@@ -1735,7 +1707,7 @@
             "paper_ids": [
                 "3013"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -1760,7 +1732,7 @@
                 "5401",
                 "TACL-5427"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Efficient Methods for NLP",
@@ -1774,7 +1746,7 @@
             "paper_ids": [
                 "4313"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Ethics in NLP",
@@ -1792,7 +1764,7 @@
                 "252",
                 "656"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Information Extraction",
@@ -1808,7 +1780,7 @@
                 "3732",
                 "4500"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -1824,7 +1796,7 @@
                 "2048",
                 "4488"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Language Modeling and Analysis of Language Models",
@@ -1839,7 +1811,7 @@
                 "5052",
                 "5845"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -1855,7 +1827,7 @@
                 "651",
                 "514"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Machine Learning for NLP",
@@ -1873,7 +1845,7 @@
                 "1007",
                 "2570"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Machine Translation",
@@ -1889,7 +1861,7 @@
                 "3966",
                 "158"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Multilinguality and Linguistic Diversity",
@@ -1903,7 +1875,7 @@
             "paper_ids": [
                 "575"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Natural Language Generation",
@@ -1918,7 +1890,7 @@
                 "496",
                 "3961"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "NLP Applications",
@@ -1934,7 +1906,7 @@
                 "3896",
                 "4946"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Question Answering",
@@ -1986,7 +1958,7 @@
                 "537",
                 "566"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -2001,7 +1973,7 @@
                 "1535",
                 "915"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -2027,7 +1999,7 @@
                 "3059",
                 "4374"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -2041,7 +2013,7 @@
             "paper_ids": [
                 "421"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Speech and Multimodality",
@@ -2056,7 +2028,7 @@
                 "1539",
                 "5329"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Summarization",
@@ -2074,7 +2046,7 @@
                 "TACL-5183",
                 "478"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Syntax, Parsing and their Applications",
@@ -2112,7 +2084,7 @@
                 "1382",
                 "4902"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 4",
             "start_time": "2023-12-09T09:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -2128,7 +2100,7 @@
                 "3186",
                 "3868"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Computational Social Science and Cultural Analytics",
@@ -2144,7 +2116,7 @@
                 "Demo-232",
                 "Demo-234"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Demo",
@@ -2159,7 +2131,7 @@
                 "2493",
                 "3898"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -2174,7 +2146,7 @@
                 "1430",
                 "4544"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Discourse and Pragmatics",
@@ -2209,7 +2181,7 @@
                 "1784",
                 "3556"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Efficient Methods for NLP",
@@ -2234,7 +2206,7 @@
                 "5232",
                 "5565"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Ethics in NLP",
@@ -2248,7 +2220,7 @@
             "paper_ids": [
                 "883"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Information Extraction",
@@ -2294,7 +2266,7 @@
                 "5507",
                 "1020"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -2308,7 +2280,7 @@
             "paper_ids": [
                 "4105"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -2325,7 +2297,7 @@
                 "3915",
                 "4587"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Language Modeling and Analysis of Language Models",
@@ -2339,7 +2311,7 @@
             "paper_ids": [
                 "4210"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -2353,7 +2325,7 @@
             "paper_ids": [
                 "1966"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Machine Translation",
@@ -2367,7 +2339,7 @@
             "paper_ids": [
                 "2582"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Multilinguality and Linguistic Diversity",
@@ -2383,7 +2355,7 @@
                 "2193",
                 "3613"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Natural Language Generation",
@@ -2399,7 +2371,7 @@
                 "3586",
                 "3712"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "NLP Applications",
@@ -2415,7 +2387,7 @@
                 "2287",
                 "3590"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Question Answering",
@@ -2432,7 +2404,7 @@
                 "3313",
                 "4497"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -2447,7 +2419,7 @@
                 "1068",
                 "4188"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -2461,7 +2433,7 @@
             "paper_ids": [
                 "2792"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -2489,7 +2461,7 @@
                 "1985",
                 "2469"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Summarization",
@@ -2525,7 +2497,7 @@
                 "1913",
                 "4289"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 5",
             "start_time": "2023-12-09T11:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -2540,7 +2512,7 @@
                 "1122",
                 "1256"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Commonsense Reasoning",
@@ -2574,7 +2546,7 @@
                 "1189",
                 "189"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Computational Social Science and Cultural Analytics",
@@ -2595,7 +2567,7 @@
                 "Demo-182",
                 "Demo-186"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Demo",
@@ -2610,7 +2582,7 @@
                 "4635",
                 "4945"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Discourse and Pragmatics",
@@ -2624,7 +2596,7 @@
             "paper_ids": [
                 "155"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Ethics in NLP",
@@ -2639,7 +2611,7 @@
                 "57",
                 "1795"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Information Extraction",
@@ -2674,7 +2646,7 @@
                 "TACL-4705",
                 "TACL-4911"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Information Retrieval and Text Mining",
@@ -2688,7 +2660,7 @@
             "paper_ids": [
                 "4776"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -2702,7 +2674,7 @@
             "paper_ids": [
                 "5199"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -2742,7 +2714,7 @@
                 "ARR-46",
                 "TACL-4749"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Machine Learning for NLP",
@@ -2756,7 +2728,7 @@
             "paper_ids": [
                 "5611"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Machine Translation",
@@ -2784,7 +2756,7 @@
                 "5129",
                 "5721"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Natural Language Generation",
@@ -2826,7 +2798,7 @@
                 "714",
                 "818"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "NLP Applications",
@@ -2840,7 +2812,7 @@
             "paper_ids": [
                 "1926"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Question Answering",
@@ -2856,7 +2828,7 @@
                 "179",
                 "395"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -2870,7 +2842,7 @@
             "paper_ids": [
                 "TACL-3985"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Speech and Multimodality",
@@ -2886,7 +2858,7 @@
                 "468",
                 "666"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Summarization",
@@ -2902,7 +2874,7 @@
                 "202",
                 "405"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 6",
             "start_time": "2023-12-10T09:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -2919,7 +2891,7 @@
                 "3603",
                 "4530"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Computational Social Science and Cultural Analytics",
@@ -2937,7 +2909,7 @@
                 "Demo-161",
                 "Demo-228"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Demo",
@@ -2959,7 +2931,7 @@
                 "137",
                 "734"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-08T11:00:00+08:00",
             "track": "Dialogue and Interactive Systems",
@@ -2977,7 +2949,7 @@
                 "ARR-111",
                 "ARR-29"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Efficient Methods for NLP",
@@ -2991,7 +2963,7 @@
             "paper_ids": [
                 "4378"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Ethics in NLP",
@@ -3005,7 +2977,7 @@
             "paper_ids": [
                 "585"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Human-Centered NLP",
@@ -3059,7 +3031,7 @@
                 "INDUSTRY-140",
                 "INDUSTRY-63"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Industry",
@@ -3075,7 +3047,7 @@
                 "389",
                 "ARR-137"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Information Extraction",
@@ -3092,7 +3064,7 @@
                 "105",
                 "674"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Information Retrieval and Text Mining",
@@ -3108,7 +3080,7 @@
                 "208",
                 "698"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -3123,7 +3095,7 @@
                 "280",
                 "544"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -3142,7 +3114,7 @@
                 "2",
                 "578"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Language Modeling and Analysis of Language Models",
@@ -3157,7 +3129,7 @@
                 "4023",
                 "4340"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -3174,7 +3146,7 @@
                 "ARR-57",
                 "ARR-77"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Machine Learning for NLP",
@@ -3190,7 +3162,7 @@
                 "154",
                 "648"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Machine Translation",
@@ -3207,7 +3179,7 @@
                 "ARR-7",
                 "ARR-72"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Multilinguality and Linguistic Diversity",
@@ -3224,7 +3196,7 @@
                 "223",
                 "ARR-120"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Natural Language Generation",
@@ -3247,7 +3219,7 @@
                 "722",
                 "ARR-108"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "NLP Applications",
@@ -3263,7 +3235,7 @@
                 "3964",
                 "4602"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Question Answering",
@@ -3286,7 +3258,7 @@
                 "82",
                 "ARR-88"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Resources and Evaluation",
@@ -3301,7 +3273,7 @@
                 "609",
                 "ARR-48"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -3315,7 +3287,7 @@
             "paper_ids": [
                 "2879"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -3332,7 +3304,7 @@
                 "138",
                 "ARR-6"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Speech and Multimodality",
@@ -3344,11 +3316,10 @@
             "id": "poster_demo_industry_findings-in-person-7_-summarization-(poster)",
             "link": null,
             "paper_ids": [
-                "1287",
                 "3865",
                 "ARR-56"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Summarization",
@@ -3364,7 +3335,7 @@
                 "55",
                 "ARR-68"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Syntax, Parsing and their Applications",
@@ -3387,7 +3358,7 @@
                 "589",
                 "ARR-18"
             ],
-            "room": "in person",
+            "room": "East Foyer",
             "session": "Poster_Demo_Industry_Findings In-person 7",
             "start_time": "2023-12-10T11:00:00+08:00",
             "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -5754,7 +5725,6 @@
                 "5351",
                 "5411",
                 "5887",
-                "5523",
                 "5523"
             ],
             "room": "Virtual-Gathertown",
@@ -9988,8 +9958,7 @@
             "demo_url": null,
             "display_track": "Summarization",
             "event_ids": [
-                "poster_demo_industry-hybrid-5_-summarization-(poster)",
-                "poster_demo_industry_findings-in-person-7_-summarization-(poster)"
+                "poster_demo_industry-hybrid-5_-summarization-(poster)"
             ],
             "id": "1287",
             "is_paper": true,
@@ -59055,7 +59024,6 @@
             "demo_url": null,
             "display_track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
             "event_ids": [
-                "findings-1-(virtual)-(session-2)_-semantics_-lexical,-sentence-level,-document-level,-textual-inference,-etc.-(poster)",
                 "poster_demo_industry_findings-virtual-1_-semantics_-lexical,-sentence-level,-document-level,-textual-inference,-etc.-(poster)"
             ],
             "id": "807",
@@ -59810,7 +59778,6 @@
             "demo_url": null,
             "display_track": "Human-Centered NLP",
             "event_ids": [
-                "findings-1-(virtual)-(session-2)_-human-centered-nlp-(poster)",
                 "poster_demo_industry_findings-virtual-1_-human-centered-nlp-(poster)"
             ],
             "id": "863",
@@ -71527,47 +71494,6 @@
             "type": "Plenary Sessions",
             "workshop_events": {}
         },
-        "Findings 1 (virtual) (Session 2)": {
-            "display_name": "Findings 1 (virtual) (Session 2)",
-            "end_time": "2023-12-08T12:30:00+08:00",
-            "events": {
-                "findings-1-(virtual)-(session-2)_-human-centered-nlp-(poster)": {
-                    "chairs": [],
-                    "end_time": "2023-12-08T12:30:00+08:00",
-                    "id": "findings-1-(virtual)-(session-2)_-human-centered-nlp-(poster)",
-                    "link": null,
-                    "paper_ids": [
-                        "863"
-                    ],
-                    "room": "nan",
-                    "session": "Findings 1 (virtual) (Session 2)",
-                    "start_time": "2023-12-08T11:00:00+08:00",
-                    "track": "Human-Centered NLP",
-                    "type": "Poster"
-                },
-                "findings-1-(virtual)-(session-2)_-semantics_-lexical,-sentence-level,-document-level,-textual-inference,-etc.-(poster)": {
-                    "chairs": [],
-                    "end_time": "2023-12-08T12:30:00+08:00",
-                    "id": "findings-1-(virtual)-(session-2)_-semantics_-lexical,-sentence-level,-document-level,-textual-inference,-etc.-(poster)",
-                    "link": null,
-                    "paper_ids": [
-                        "807"
-                    ],
-                    "room": "nan",
-                    "session": "Findings 1 (virtual) (Session 2)",
-                    "start_time": "2023-12-08T11:00:00+08:00",
-                    "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
-                    "type": "Poster"
-                }
-            },
-            "id": "findings-1-(virtual)-(session-2)",
-            "name": "Findings 1 (virtual) (Session 2)",
-            "plenary_events": {},
-            "start_time": "2023-12-08T11:00:00+08:00",
-            "tutorial_events": {},
-            "type": "Paper Sessions",
-            "workshop_events": {}
-        },
         "GEM": {
             "display_name": "W11: Natural Language Generation, Evaluation, and Metric (GEM)",
             "end_time": "2023-12-06T17:00:00+08:00",
@@ -72293,7 +72219,7 @@
                         "Demo-129",
                         "Demo-147"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Demo",
@@ -72308,7 +72234,7 @@
                         "388",
                         "481"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -72322,7 +72248,7 @@
                     "paper_ids": [
                         "2128"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Human-Centered NLP",
@@ -72336,7 +72262,7 @@
                     "paper_ids": [
                         "INDUSTRY-198"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Industry",
@@ -72357,7 +72283,7 @@
                         "TACL-5061",
                         "TACL-5221"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Information Extraction",
@@ -72373,7 +72299,7 @@
                         "2693",
                         "4763"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -72388,7 +72314,7 @@
                         "3987",
                         "TACL-4491"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Multilinguality and Linguistic Diversity",
@@ -72407,7 +72333,7 @@
                         "ARR-81",
                         "ARR-98"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "NLP Applications",
@@ -72435,7 +72361,7 @@
                         "Demo-149",
                         "Demo-151"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Demo",
@@ -72449,7 +72375,7 @@
                     "paper_ids": [
                         "INDUSTRY-211"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Industry",
@@ -72469,7 +72395,7 @@
                         "3448",
                         "ARR-30"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Information Extraction",
@@ -72488,7 +72414,7 @@
                         "3919",
                         "TACL-5499"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Language Modeling and Analysis of Language Models",
@@ -72504,7 +72430,7 @@
                         "1423",
                         "3445"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Machine Translation",
@@ -72522,7 +72448,7 @@
                         "4328",
                         "ARR-34"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -72536,7 +72462,7 @@
                     "paper_ids": [
                         "CL-2261"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "NLP Applications",
@@ -72552,7 +72478,7 @@
                         "4228",
                         "ARR-52"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -72581,7 +72507,7 @@
                         "Demo-187",
                         "Demo-189"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Demo",
@@ -72598,7 +72524,7 @@
                         "2364",
                         "ARR-25"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -72612,7 +72538,7 @@
                     "paper_ids": [
                         "INDUSTRY-141"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Industry",
@@ -72626,7 +72552,7 @@
                     "paper_ids": [
                         "CL-2300"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Phonology, Morphology, and Word Segmentation",
@@ -72641,7 +72567,7 @@
                         "3633",
                         "TACL-5261"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Question Answering",
@@ -72656,7 +72582,7 @@
                         "1504",
                         "4132"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -72677,7 +72603,7 @@
                         "3251",
                         "ARR-113"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -72691,7 +72617,7 @@
                     "paper_ids": [
                         "ARR-28"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -72709,7 +72635,7 @@
                         "4557",
                         "4565"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Speech and Multimodality",
@@ -72736,7 +72662,7 @@
                     "paper_ids": [
                         "5446"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -72756,7 +72682,7 @@
                         "4225",
                         "4813"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Efficient Methods for NLP",
@@ -72771,7 +72697,7 @@
                         "INDUSTRY-122",
                         "INDUSTRY-142"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Industry",
@@ -72793,7 +72719,7 @@
                         "ARR-47",
                         "ARR-107"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -72807,7 +72733,7 @@
                     "paper_ids": [
                         "113"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -72822,7 +72748,7 @@
                         "2762",
                         "4737"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -72836,7 +72762,7 @@
                     "paper_ids": [
                         "ARR-59"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Speech and Multimodality",
@@ -72854,7 +72780,7 @@
                         "1124",
                         "2036"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -72883,7 +72809,7 @@
                         "Demo-222",
                         "Demo-237"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Demo",
@@ -72898,7 +72824,7 @@
                         "216",
                         "294"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Efficient Methods for NLP",
@@ -72915,7 +72841,7 @@
                         "4136",
                         "5132"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Ethics in NLP",
@@ -72929,7 +72855,7 @@
                     "paper_ids": [
                         "INDUSTRY-162"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Industry",
@@ -72947,7 +72873,7 @@
                         "4690",
                         "ARR-86"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -72966,7 +72892,7 @@
                         "4812",
                         "ARR-102"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Summarization",
@@ -72983,7 +72909,7 @@
                         "3607",
                         "4487"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -73013,7 +72939,7 @@
                         "2908",
                         "5018"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Computational Social Science and Cultural Analytics",
@@ -73027,7 +72953,7 @@
                     "paper_ids": [
                         "INDUSTRY-23"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Industry",
@@ -73044,7 +72970,7 @@
                         "2195",
                         "2676"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Information Retrieval and Text Mining",
@@ -73064,7 +72990,7 @@
                         "4839",
                         "TACL-4049"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Machine Learning for NLP",
@@ -73087,7 +73013,7 @@
                         "ARR-15",
                         "ARR-103"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "NLP Applications",
@@ -73115,7 +73041,7 @@
                         "Demo-202",
                         "Demo-203"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Demo",
@@ -73147,7 +73073,7 @@
                         "INDUSTRY-197",
                         "INDUSTRY-147"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Industry",
@@ -73161,7 +73087,7 @@
                     "paper_ids": [
                         "4227"
                     ],
-                    "room": "Virtual",
+                    "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -73197,7 +73123,7 @@
                         "Demo-144",
                         "Demo-153"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Demo",
@@ -73228,7 +73154,7 @@
                         "2177",
                         "2180"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -73253,7 +73179,7 @@
                         "5493",
                         "TACL-5549"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Human-Centered NLP",
@@ -73268,7 +73194,7 @@
                         "INDUSTRY-61",
                         "INDUSTRY-15"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Industry",
@@ -73299,7 +73225,7 @@
                         "5742",
                         "5879"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Information Extraction",
@@ -73350,7 +73276,7 @@
                         "4808",
                         "ARR-13"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -73372,7 +73298,7 @@
                         "5634",
                         "TACL-5199"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -73404,7 +73330,7 @@
                         "TACL-5485",
                         "TACL-5497"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Multilinguality and Linguistic Diversity",
@@ -73418,7 +73344,7 @@
                     "paper_ids": [
                         "3726"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -73455,7 +73381,7 @@
                         "2257",
                         "2316"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 1",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "NLP Applications",
@@ -73484,7 +73410,7 @@
                         "Demo-162",
                         "Demo-166"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Demo",
@@ -73498,7 +73424,7 @@
                     "paper_ids": [
                         "5193"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Ethics in NLP",
@@ -73528,7 +73454,7 @@
                         "3709",
                         "4408"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Information Extraction",
@@ -73542,7 +73468,7 @@
                     "paper_ids": [
                         "4104"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -73556,7 +73482,7 @@
                     "paper_ids": [
                         "344"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -73610,7 +73536,7 @@
                         "TACL-4889",
                         "TACL-4983"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Language Modeling and Analysis of Language Models",
@@ -73625,7 +73551,7 @@
                         "5093",
                         "4512"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Machine Learning for NLP",
@@ -73667,7 +73593,7 @@
                         "TACL-5343",
                         "CL-2329"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Machine Translation",
@@ -73700,7 +73626,7 @@
                         "2637",
                         "3037"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -73721,7 +73647,7 @@
                         "3905",
                         "3974"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "NLP Applications",
@@ -73756,7 +73682,7 @@
                         "3682",
                         "3743"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 2",
                     "start_time": "2023-12-08T14:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -73786,7 +73712,7 @@
                         "Demo-196",
                         "Demo-200"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Demo",
@@ -73824,7 +73750,7 @@
                         "ARR-93",
                         "ARR-110"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -73838,7 +73764,7 @@
                     "paper_ids": [
                         "INDUSTRY-99"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Industry",
@@ -73852,7 +73778,7 @@
                     "paper_ids": [
                         "1077"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Information Extraction",
@@ -73866,7 +73792,7 @@
                     "paper_ids": [
                         "297"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Information Retrieval and Text Mining",
@@ -73882,7 +73808,7 @@
                         "CL-2232",
                         "CL-2255"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Phonology, Morphology, and Word Segmentation",
@@ -73931,7 +73857,7 @@
                         "TACL-5373",
                         "CL-2305"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Question Answering",
@@ -73978,7 +73904,7 @@
                         "3090",
                         "3100"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -74012,7 +73938,7 @@
                         "TACL-5321",
                         "TACL-5333"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -74041,7 +73967,7 @@
                         "TACL-5195",
                         "TACL-5491"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Speech and Multimodality",
@@ -74055,7 +73981,7 @@
                     "paper_ids": [
                         "2458"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 3",
                     "start_time": "2023-12-08T16:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -74090,7 +74016,7 @@
                         "4322",
                         "517"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Commonsense Reasoning",
@@ -74107,7 +74033,7 @@
                         "Demo-224",
                         "Demo-226"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Demo",
@@ -74121,7 +74047,7 @@
                     "paper_ids": [
                         "3013"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -74146,7 +74072,7 @@
                         "5401",
                         "TACL-5427"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Efficient Methods for NLP",
@@ -74160,7 +74086,7 @@
                     "paper_ids": [
                         "4313"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Ethics in NLP",
@@ -74178,7 +74104,7 @@
                         "252",
                         "656"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Information Extraction",
@@ -74194,7 +74120,7 @@
                         "3732",
                         "4500"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -74210,7 +74136,7 @@
                         "2048",
                         "4488"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Language Modeling and Analysis of Language Models",
@@ -74225,7 +74151,7 @@
                         "5052",
                         "5845"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -74241,7 +74167,7 @@
                         "651",
                         "514"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Machine Learning for NLP",
@@ -74259,7 +74185,7 @@
                         "1007",
                         "2570"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Machine Translation",
@@ -74275,7 +74201,7 @@
                         "3966",
                         "158"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Multilinguality and Linguistic Diversity",
@@ -74289,7 +74215,7 @@
                     "paper_ids": [
                         "575"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -74304,7 +74230,7 @@
                         "496",
                         "3961"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "NLP Applications",
@@ -74320,7 +74246,7 @@
                         "3896",
                         "4946"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Question Answering",
@@ -74372,7 +74298,7 @@
                         "537",
                         "566"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -74387,7 +74313,7 @@
                         "1535",
                         "915"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -74413,7 +74339,7 @@
                         "3059",
                         "4374"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -74427,7 +74353,7 @@
                     "paper_ids": [
                         "421"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Speech and Multimodality",
@@ -74442,7 +74368,7 @@
                         "1539",
                         "5329"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Summarization",
@@ -74460,7 +74386,7 @@
                         "TACL-5183",
                         "478"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Syntax, Parsing and their Applications",
@@ -74498,7 +74424,7 @@
                         "1382",
                         "4902"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 4",
                     "start_time": "2023-12-09T09:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -74527,7 +74453,7 @@
                         "3186",
                         "3868"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Computational Social Science and Cultural Analytics",
@@ -74543,7 +74469,7 @@
                         "Demo-232",
                         "Demo-234"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Demo",
@@ -74558,7 +74484,7 @@
                         "2493",
                         "3898"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -74573,7 +74499,7 @@
                         "1430",
                         "4544"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Discourse and Pragmatics",
@@ -74608,7 +74534,7 @@
                         "1784",
                         "3556"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Efficient Methods for NLP",
@@ -74633,7 +74559,7 @@
                         "5232",
                         "5565"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Ethics in NLP",
@@ -74647,7 +74573,7 @@
                     "paper_ids": [
                         "883"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Information Extraction",
@@ -74693,7 +74619,7 @@
                         "5507",
                         "1020"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -74707,7 +74633,7 @@
                     "paper_ids": [
                         "4105"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -74724,7 +74650,7 @@
                         "3915",
                         "4587"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Language Modeling and Analysis of Language Models",
@@ -74738,7 +74664,7 @@
                     "paper_ids": [
                         "4210"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -74752,7 +74678,7 @@
                     "paper_ids": [
                         "1966"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Machine Translation",
@@ -74766,7 +74692,7 @@
                     "paper_ids": [
                         "2582"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Multilinguality and Linguistic Diversity",
@@ -74782,7 +74708,7 @@
                         "2193",
                         "3613"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -74798,7 +74724,7 @@
                         "3586",
                         "3712"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "NLP Applications",
@@ -74814,7 +74740,7 @@
                         "2287",
                         "3590"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Question Answering",
@@ -74831,7 +74757,7 @@
                         "3313",
                         "4497"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -74846,7 +74772,7 @@
                         "1068",
                         "4188"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -74860,7 +74786,7 @@
                     "paper_ids": [
                         "2792"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -74888,7 +74814,7 @@
                         "1985",
                         "2469"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Summarization",
@@ -74924,7 +74850,7 @@
                         "1913",
                         "4289"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 5",
                     "start_time": "2023-12-09T11:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -74952,7 +74878,7 @@
                         "1122",
                         "1256"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Commonsense Reasoning",
@@ -74986,7 +74912,7 @@
                         "1189",
                         "189"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Computational Social Science and Cultural Analytics",
@@ -75007,7 +74933,7 @@
                         "Demo-182",
                         "Demo-186"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Demo",
@@ -75022,7 +74948,7 @@
                         "4635",
                         "4945"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Discourse and Pragmatics",
@@ -75036,7 +74962,7 @@
                     "paper_ids": [
                         "155"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Ethics in NLP",
@@ -75051,7 +74977,7 @@
                         "57",
                         "1795"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Information Extraction",
@@ -75086,7 +75012,7 @@
                         "TACL-4705",
                         "TACL-4911"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Information Retrieval and Text Mining",
@@ -75100,7 +75026,7 @@
                     "paper_ids": [
                         "4776"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -75114,7 +75040,7 @@
                     "paper_ids": [
                         "5199"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -75154,7 +75080,7 @@
                         "ARR-46",
                         "TACL-4749"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Machine Learning for NLP",
@@ -75168,7 +75094,7 @@
                     "paper_ids": [
                         "5611"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Machine Translation",
@@ -75196,7 +75122,7 @@
                         "5129",
                         "5721"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -75238,7 +75164,7 @@
                         "714",
                         "818"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "NLP Applications",
@@ -75252,7 +75178,7 @@
                     "paper_ids": [
                         "1926"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Question Answering",
@@ -75268,7 +75194,7 @@
                         "179",
                         "395"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -75282,7 +75208,7 @@
                     "paper_ids": [
                         "TACL-3985"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Speech and Multimodality",
@@ -75298,7 +75224,7 @@
                         "468",
                         "666"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Summarization",
@@ -75314,7 +75240,7 @@
                         "202",
                         "405"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 6",
                     "start_time": "2023-12-10T09:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -75344,7 +75270,7 @@
                         "3603",
                         "4530"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Computational Social Science and Cultural Analytics",
@@ -75362,7 +75288,7 @@
                         "Demo-161",
                         "Demo-228"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Demo",
@@ -75384,7 +75310,7 @@
                         "137",
                         "734"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-08T11:00:00+08:00",
                     "track": "Dialogue and Interactive Systems",
@@ -75402,7 +75328,7 @@
                         "ARR-111",
                         "ARR-29"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Efficient Methods for NLP",
@@ -75416,7 +75342,7 @@
                     "paper_ids": [
                         "4378"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Ethics in NLP",
@@ -75430,7 +75356,7 @@
                     "paper_ids": [
                         "585"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Human-Centered NLP",
@@ -75484,7 +75410,7 @@
                         "INDUSTRY-140",
                         "INDUSTRY-63"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Industry",
@@ -75500,7 +75426,7 @@
                         "389",
                         "ARR-137"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Information Extraction",
@@ -75517,7 +75443,7 @@
                         "105",
                         "674"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Information Retrieval and Text Mining",
@@ -75533,7 +75459,7 @@
                         "208",
                         "698"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Interpretability, Interactivity, and Analysis of Models for NLP",
@@ -75548,7 +75474,7 @@
                         "280",
                         "544"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Language Grounding to Vision, Robotics and Beyond",
@@ -75567,7 +75493,7 @@
                         "2",
                         "578"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Language Modeling and Analysis of Language Models",
@@ -75582,7 +75508,7 @@
                         "4023",
                         "4340"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Linguistic Theories, Cognitive Modeling, and Psycholinguistics",
@@ -75599,7 +75525,7 @@
                         "ARR-57",
                         "ARR-77"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Machine Learning for NLP",
@@ -75615,7 +75541,7 @@
                         "154",
                         "648"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Machine Translation",
@@ -75632,7 +75558,7 @@
                         "ARR-7",
                         "ARR-72"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Multilinguality and Linguistic Diversity",
@@ -75649,7 +75575,7 @@
                         "223",
                         "ARR-120"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Natural Language Generation",
@@ -75672,7 +75598,7 @@
                         "722",
                         "ARR-108"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "NLP Applications",
@@ -75688,7 +75614,7 @@
                         "3964",
                         "4602"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Question Answering",
@@ -75711,7 +75637,7 @@
                         "82",
                         "ARR-88"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Resources and Evaluation",
@@ -75726,7 +75652,7 @@
                         "609",
                         "ARR-48"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc.",
@@ -75740,7 +75666,7 @@
                     "paper_ids": [
                         "2879"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Sentiment Analysis, Stylistic Analysis, and Argument Mining",
@@ -75757,7 +75683,7 @@
                         "138",
                         "ARR-6"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Speech and Multimodality",
@@ -75769,11 +75695,10 @@
                     "id": "poster_demo_industry_findings-in-person-7_-summarization-(poster)",
                     "link": null,
                     "paper_ids": [
-                        "1287",
                         "3865",
                         "ARR-56"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Summarization",
@@ -75789,7 +75714,7 @@
                         "55",
                         "ARR-68"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Syntax, Parsing and their Applications",
@@ -75812,7 +75737,7 @@
                         "589",
                         "ARR-18"
                     ],
-                    "room": "in person",
+                    "room": "East Foyer",
                     "session": "Poster_Demo_Industry_Findings In-person 7",
                     "start_time": "2023-12-10T11:00:00+08:00",
                     "track": "Theme Track: Large Language Models and the Future of NLP",
@@ -78270,7 +78195,6 @@
                         "5351",
                         "5411",
                         "5887",
-                        "5523",
                         "5523"
                     ],
                     "room": "Virtual-Gathertown",
