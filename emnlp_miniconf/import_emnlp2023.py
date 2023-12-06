@@ -346,8 +346,8 @@ class Emnlp2023Parser:
     def _parse_tutorials(self):
         self.tutorials = self.booklet.tutorials
         for t in self.tutorials.values():
-            t.anthology_url = self.emnlp_anthology_prefix + f"2023.emnlp-tutorials.{t.id[1:]}"
-            t.tutorial_pdf = self.emnlp_anthology_prefix + f"2023.emnlp-tutorials.{t.id[1:]}.pdf"
+            t.anthology_url = self.emnlp_anthology_prefix + f"2023.emnlp-tutorial.{t.id[1:]}"
+            t.tutorial_pdf = self.emnlp_anthology_prefix + f"2023.emnlp-tutorial.{t.id[1:]}.pdf"
 
         for session in self.booklet.tutorial_sessions.values():
             if session.id in self.sessions:
