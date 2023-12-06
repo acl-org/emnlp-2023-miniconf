@@ -6417,10 +6417,10 @@
             "track": "Semantics 1",
             "type": "Oral"
         },
-        "session-9_-sentiment/stylistic-analysis--(oral)": {
+        "session-9_-sentiment-or-stylistic-analysis--(oral)": {
             "chairs": [],
             "end_time": "2023-12-10T10:30:00+08:00",
-            "id": "session-9_-sentiment/stylistic-analysis--(oral)",
+            "id": "session-9_-sentiment-or-stylistic-analysis--(oral)",
             "link": null,
             "paper_ids": [
                 "3103",
@@ -6433,7 +6433,7 @@
             "room": "Central  1",
             "session": "Session 9",
             "start_time": "2023-12-10T09:00:00+08:00",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "type": "Oral"
         },
         "session-9_-speech-&-multimodality-1-(oral)": {
@@ -30679,9 +30679,9 @@
             ],
             "category": "Main-Oral",
             "demo_url": null,
-            "display_track": "Sentiment/Stylistic Analysis ",
+            "display_track": "Sentiment or Stylistic Analysis ",
             "event_ids": [
-                "session-9_-sentiment/stylistic-analysis--(oral)"
+                "session-9_-sentiment-or-stylistic-analysis--(oral)"
             ],
             "id": "3103",
             "is_paper": true,
@@ -30697,7 +30697,7 @@
             "slides_pdf": null,
             "title": "Argument-based Detection and Classification of Fallacies in Political Debates",
             "tldr": "",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -34480,9 +34480,9 @@
             ],
             "category": "Main-Oral",
             "demo_url": null,
-            "display_track": "Sentiment/Stylistic Analysis ",
+            "display_track": "Sentiment or Stylistic Analysis ",
             "event_ids": [
-                "session-9_-sentiment/stylistic-analysis--(oral)"
+                "session-9_-sentiment-or-stylistic-analysis--(oral)"
             ],
             "id": "3474",
             "is_paper": true,
@@ -34498,7 +34498,7 @@
             "slides_pdf": null,
             "title": "Why Should This Article Be Deleted? Transparent Stance Detection in Multilingual Wikipedia Editor Discussions",
             "tldr": "",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -42352,9 +42352,9 @@
             ],
             "category": "Main-Oral",
             "demo_url": null,
-            "display_track": "Sentiment/Stylistic Analysis ",
+            "display_track": "Sentiment or Stylistic Analysis ",
             "event_ids": [
-                "session-9_-sentiment/stylistic-analysis--(oral)"
+                "session-9_-sentiment-or-stylistic-analysis--(oral)"
             ],
             "id": "4220",
             "is_paper": true,
@@ -42370,7 +42370,7 @@
             "slides_pdf": null,
             "title": "Identification of Multimodal Stance Towards Frames of Communication",
             "tldr": "",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -56212,9 +56212,9 @@
             ],
             "category": "Main-Oral",
             "demo_url": null,
-            "display_track": "Sentiment/Stylistic Analysis ",
+            "display_track": "Sentiment or Stylistic Analysis ",
             "event_ids": [
-                "session-9_-sentiment/stylistic-analysis--(oral)"
+                "session-9_-sentiment-or-stylistic-analysis--(oral)"
             ],
             "id": "5813",
             "is_paper": true,
@@ -56230,7 +56230,7 @@
             "slides_pdf": null,
             "title": "EXPLAIN, EDIT, GENERATE: Rationale-Sensitive Counterfactual Data Augmentation for Multi-hop Fact Verification",
             "tldr": "",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -62658,9 +62658,9 @@
             ],
             "category": "Main-Oral",
             "demo_url": null,
-            "display_track": "Sentiment/Stylistic Analysis ",
+            "display_track": "Sentiment or Stylistic Analysis ",
             "event_ids": [
-                "session-9_-sentiment/stylistic-analysis--(oral)"
+                "session-9_-sentiment-or-stylistic-analysis--(oral)"
             ],
             "id": "ARR-35",
             "is_paper": true,
@@ -62676,7 +62676,7 @@
             "slides_pdf": null,
             "title": "Joyful: Joint Modality Fusion and Graph Contrastive Learning for Multimodal Emotion Recognition",
             "tldr": "",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -69697,9 +69697,9 @@
             ],
             "category": "Main-Oral",
             "demo_url": null,
-            "display_track": "Sentiment/Stylistic Analysis ",
+            "display_track": "Sentiment or Stylistic Analysis ",
             "event_ids": [
-                "session-9_-sentiment/stylistic-analysis--(oral)"
+                "session-9_-sentiment-or-stylistic-analysis--(oral)"
             ],
             "id": "TACL-5067",
             "is_paper": true,
@@ -69715,7 +69715,7 @@
             "slides_pdf": null,
             "title": "Can Authorship Representation Learning Capture Stylistic Features?",
             "tldr": "",
-            "track": "Sentiment/Stylistic Analysis ",
+            "track": "Sentiment or Stylistic Analysis ",
             "underline_id": null,
             "underline_url": null,
             "video_url": null
@@ -78978,10 +78978,10 @@
                     "track": "Semantics 1",
                     "type": "Oral"
                 },
-                "session-9_-sentiment/stylistic-analysis--(oral)": {
+                "session-9_-sentiment-or-stylistic-analysis--(oral)": {
                     "chairs": [],
                     "end_time": "2023-12-10T10:30:00+08:00",
-                    "id": "session-9_-sentiment/stylistic-analysis--(oral)",
+                    "id": "session-9_-sentiment-or-stylistic-analysis--(oral)",
                     "link": null,
                     "paper_ids": [
                         "3103",
@@ -78994,7 +78994,7 @@
                     "room": "Central  1",
                     "session": "Session 9",
                     "start_time": "2023-12-10T09:00:00+08:00",
-                    "track": "Sentiment/Stylistic Analysis ",
+                    "track": "Sentiment or Stylistic Analysis ",
                     "type": "Oral"
                 },
                 "session-9_-speech-&-multimodality-1-(oral)": {
