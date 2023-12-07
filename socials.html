@@ -213,55 +213,6 @@
   
   
   <div class="col-md-6 col-sm-12 p-3"
-       id='The_role_of_NLP_researchers_in_shaping_and_supporting_a_society_with_ubiquitous_AI_use'>
-    <div class="card p-3 text-center shadow p-3 mb-5 bg-light rounded"
-         style="box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2); height:100%;">
-      <h2 class="card-title" >
-        
-          Birds of a Feather 1: The role of NLP researchers in shaping and supporting a society with ubiquitous AI use
-        
-      </h2>
-
-      
-
-      
-
-      <div class="mx-4 text-left card-subtitle">
-        <p></p>
-        
-        <p class="text-center">This event takes place in Aquarius 1.</p>
-        
-
-        
-          <div class="m-3 text-muted text-center">
-          <span class="session_times">Friday 08, 14:00</span>
-          
-            <div class="text-center text-muted text-monospace">
-              <div class="paper-cal-links">
-                <img src="static/images/calendar.svg" class="paper-detail-calendar" height="24px">
-                <span id="session-cal-link-BOF-1-1"></span>
-              </div>
-            </div>
-
-          </div>
-        
-
-      </div>
-
-      
-      <p class="text-center text-muted card-title">
-      
-        <a href="https://acl.rocket.chat/channel/paper-event_BOF-1" target="_blank"> Chat </a>  
-      
-      </p>    
-
-
-    </div>
-  </div>
-  
-  
-  
-  <div class="col-md-6 col-sm-12 p-3"
        id='NLP_on_legal_texts'>
     <div class="card p-3 text-center shadow p-3 mb-5 bg-light rounded"
          style="box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2); height:100%;">
@@ -1066,47 +1017,6 @@
   let parser = new DOMParser();
   let calendarNames = Array("google", "off365", "outlook", "ical");
   // Again, I'm so sorry for this Jinja hack
-  
-    
-      console.log("Birds of a Feather 1");
-      console.log(new Date("2023-12-08T14:00:00+08:00"));
-      // create a calendar by hand
-      ouicalData = addToCalendarData({
-        options: {
-          class: 'my-class',
-          id: 'my-id'                               // If you don't pass an id, one will be generated for you.
-        },
-        data: {
-          title: 'The role of NLP researchers in shaping and supporting a society with ubiquitous AI use: Birds of a Feather 1'.replace("#", " "),
-
-          // Event start date
-          start: new Date("2023-12-08T14:00:00+08:00"),
-          end: new Date("2023-12-08T15:30:00+08:00"),
-          // duration: 120,                           // Event duration (IN MINUTES)
-          // allday: true,														// Override end time, duration and timezone, triggers 'all day'
-
-          // Event timezone. Will convert the given time to that zone
-          timezone: 'UTC',
-          // Event Address
-          
-
-          // Event Description
-          // NOTE: Cannot use abstract because of it is multi-line. Need to format it.
-          description: 'Birds of a Feather 1'
-        }
-      });
-
-      targetNode = document.querySelector('#session-cal-link-BOF-1-1');
-      for (const name of calendarNames) {
-        calendarNodeInner = parser.parseFromString(ouicalData[name], "text/html");
-        calendarNodeSpan = document.createElement("span");
-        calendarNodeSpan.setAttribute("style", "padding: 2px");
-        calendarNodeSpan.appendChild(document.createTextNode("["));
-        calendarNodeSpan.appendChild(calendarNodeInner.getElementsByTagName("a")[0]);
-        calendarNodeSpan.appendChild(document.createTextNode("]"));
-        targetNode.appendChild(calendarNodeSpan);
-      }
-    
   
     
       console.log("Birds of a Feather 2");
