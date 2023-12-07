@@ -22,7 +22,8 @@
             "link": null,
             "paper_ids": [
                 "388",
-                "481"
+                "481",
+                "1328"
             ],
             "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 1",
@@ -545,7 +546,8 @@
             "paper_ids": [
                 "Demo-219",
                 "Demo-222",
-                "Demo-237"
+                "Demo-237",
+                "Demo-235"
             ],
             "room": "East Foyer(Virtual)",
             "session": "Poster_Demo_Industry Hybrid 5",
@@ -844,7 +846,6 @@
                 "1227",
                 "1240",
                 "1258",
-                "1328",
                 "1364",
                 "1553",
                 "1713",
@@ -10380,7 +10381,7 @@
             "demo_url": null,
             "display_track": "Dialogue and Interactive Systems",
             "event_ids": [
-                "poster_demo_industry_findings-in-person-1_-dialogue-and-interactive-systems-(poster)"
+                "poster_demo_industry-hybrid-1_-dialogue-and-interactive-systems-(poster)"
             ],
             "id": "1328",
             "is_paper": true,
@@ -66128,6 +66129,50 @@
             "underline_url": null,
             "video_url": null
         },
+        "Demo-235": {
+            "abstract": "",
+            "anthology_url": null,
+            "authors": [
+                "Chenliang Li",
+                "He Chen",
+                "Ming Yan",
+                "Weizhou Shen",
+                "Haiyang Xu",
+                "Zhikai Wu",
+                "Zhicheng Zhang",
+                "Wenmeng Zhou",
+                "Yingda Chen",
+                "Chen Cheng",
+                "Hongzhu Shi",
+                "Ji Zhang",
+                "Fei Huang",
+                "Jingren Zhou"
+            ],
+            "category": "Demo",
+            "demo_url": null,
+            "display_track": "Demo",
+            "event_ids": [
+                "poster_demo_industry-hybrid-5_-demo-(poster)"
+            ],
+            "id": "Demo-235",
+            "is_paper": true,
+            "keywords": [],
+            "languages": [],
+            "material": null,
+            "paper_pdf": null,
+            "paper_type": "demo",
+            "poster_pdf": null,
+            "preview_image": null,
+            "program": "Demo",
+            "similar_paper_ids": [],
+            "slides_pdf": null,
+            "title": "ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models",
+            "tldr": "",
+            "track": "Demo",
+            "underline_id": null,
+            "underline_url": null,
+            "video_url": null
+        },
         "Demo-237": {
             "abstract": "",
             "anthology_url": null,
@@ -72272,7 +72317,8 @@
                     "link": null,
                     "paper_ids": [
                         "388",
-                        "481"
+                        "481",
+                        "1328"
                     ],
                     "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 1",
@@ -72847,7 +72893,8 @@
                     "paper_ids": [
                         "Demo-219",
                         "Demo-222",
-                        "Demo-237"
+                        "Demo-237",
+                        "Demo-235"
                     ],
                     "room": "East Foyer(Virtual)",
                     "session": "Poster_Demo_Industry Hybrid 5",
@@ -73185,7 +73232,6 @@
                         "1227",
                         "1240",
                         "1258",
-                        "1328",
                         "1364",
                         "1553",
                         "1713",
