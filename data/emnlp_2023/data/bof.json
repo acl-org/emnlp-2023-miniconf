@@ -1,29 +1,4 @@
 {
-    "Birds of a Feather 1": {
-        "display_name": "The role of NLP researchers in shaping and supporting a society with ubiquitous AI use",
-        "end_time": "2023-12-08T15:30:00+08:00",
-        "events": {
-            "id": {
-                "chairs": [],
-                "end_time": "2023-12-08T15:30:00+08:00",
-                "id": "BOF-1",
-                "link": null,
-                "paper_ids": [],
-                "room": "Aquarius 1",
-                "session": "event_session",
-                "start_time": "2023-12-08T14:00:00+08:00",
-                "track": "Birds of a Feather 1",
-                "type": "Socials"
-            }
-        },
-        "id": "BOF-1",
-        "name": "The role of NLP researchers in shaping and supporting a society with ubiquitous AI use",
-        "plenary_events": {},
-        "start_time": "2023-12-08T14:00:00+08:00",
-        "tutorial_events": {},
-        "type": "Socials",
-        "workshop_events": {}
-    },
     "Birds of a Feather 2": {
         "display_name": "NLP on legal texts",
         "end_time": "2023-12-08T15:30:00+08:00",
