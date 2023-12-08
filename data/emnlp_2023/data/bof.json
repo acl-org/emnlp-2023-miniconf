@@ -348,5 +348,30 @@
         "tutorial_events": {},
         "type": "Socials",
         "workshop_events": {}
+    },
+    "Birds of a Feather 14": {
+        "display_name": "Benchmarking LLMs for Low resource Languages",
+        "end_time": "2023-12-09T12:30:00+08:00",
+        "events": {
+            "id": {
+                "chairs": [],
+                "end_time": "2023-12-09T12:30:00+08:00",
+                "id": "BOF-14",
+                "link": null,
+                "paper_ids": [],
+                "room": "Aquarius 4",
+                "session": "event_session",
+                "start_time": "2023-12-09T11:00:00+08:00",
+                "track": "Birds of a Feather 14",
+                "type": "Socials"
+            }
+        },
+        "id": "BOF-14",
+        "name": "Benchmarking LLMs for Low resource Languages",
+        "plenary_events": {},
+        "start_time": "2023-12-09T11:00:00+08:00",
+        "tutorial_events": {},
+        "type": "Socials",
+        "workshop_events": {}
     }
 }
