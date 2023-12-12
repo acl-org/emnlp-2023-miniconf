@@ -57,7 +57,7 @@ We did the following steps to change from the ACL 2023 Miniconf to EMNLP 2023 Mi
 3. Update urls, url list locate in `update.md`.
 4. Download conference data from google, process file `data/emnlp_2023/data/EMNLP Event Program & Details.xlsx` to generate files `oral-papers.tsv`and`poster-demo-papers.tsv`, process file `data/emnlp_2023/data/EMNLP 2023_Presenter Info Schedule.xlsx` to generate file `input.xlsx`.
 5. Run `python emnlp_miniconf/import_emnlp2023.py` to generate `conference.json`, do not forget to change the sys.path in `emnlp_miniconf/import_emnlp2023.py`.
-6. Write python files `generate_BoF_display.py`, `write_event_to_booklet.py`, `generate_booklet_data_json.py`, `generate_break_display.py`, `generate_coffee_break_json.py`, `generate_workshops_yaml.py` to preprocess file `input.xlsx`. Write python files `write_BoF_display_to_conference.py`, `write_break_display_to_conference.py`, `write_break_to_conference.py`, `write_keynotes_to_conference.py`, `write_social_event_display_to_confenence.py` to add data to `conference.json`.Just need to run `sh pipeline.sh` to get new `conference.json`.
+6. Write python files `generate_BoF_display.py`, `write_event_to_booklet.py`, `generate_booklet_data_json.py`, `generate_break_display.py`, `generate_coffee_break_json.py`, `generate_workshops_yaml.py` to preprocess file `input.xlsx`. Write python files `write_BoF_display_to_conference.py`, `write_break_display_to_conference.py`, `write_break_to_conference.py`, `write_keynotes_to_conference.py`, `write_social_event_display_to_confenence.py` to add data to `conference.json`.Just need to run `sh pipeline.sh` to get new `conference.json`.(The files default in `data/emnlp_2023/data` if not claim)
 7. Run `make run`.
 
 ## Update EMNLP 2023 from Source  
